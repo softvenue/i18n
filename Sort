@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var jsonSort = require('jsonabc');
+var JsonFile = require('./i18n.json');
+var sorted = jsonSort.sortObj(JsonFile);
+var fs = require('fs');
+
+fs.createWriteStream('i18n.json', 'utf-8')
+    .write(JSON.stringify(sorted));
