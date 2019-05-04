@@ -23,6 +23,6 @@
     "SOURCE": { "AR": "مصدر", "EN": "SOURCE" },
     "STABLE": { "AR": "مستقر", "EN": "stable" },
     "VARIABLE": { "AR": "متغير", "EN": "variable" },
-    "VERSION": { "AR": "نسخة", "EN": "version" }
+    "VERSION": { "AR": "إصدار", "EN": "version" }
   }
 }
