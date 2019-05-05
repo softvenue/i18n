@@ -9,9 +9,19 @@
     ARGUMENT: 
       AR: "معطى"
       EN: "argument"
+    BRANCH: 
+      AR: 
+        - "شعبة"
+        - "فرع"
+      EN: "branch"
     CODE: 
       AR: "شيفرة"
       EN: "code"
+    CONFIG: 
+      AR: 
+        - "إعداد"
+        - "تهيئة"
+      EN: "config"
     CONSTANT: 
       AR: "ثابت"
       EN: "constant"
@@ -24,6 +34,11 @@
     FEEDBACK: 
       AR: "تغذية راجعة"
       EN: "feedback"
+    FETCH: 
+      AR: 
+        - "إحضار"
+        - "جلب"
+      EN: "fetch"
     FUNCTION: 
       AR: "دالة"
       EN: "function"
@@ -33,9 +48,24 @@
     GUIDE: 
       AR: "دليل"
       EN: "guide"
+    INTERNATIONALIZATION: 
+      AR: "تدويل"
+      EN: "internationalization"
+    LICENSE: 
+      AR: "رخصة"
+      EN: "license"
+    LOG: 
+      AR: "سجل"
+      EN: "log"
     LTS: 
       AR: "دعم طويل الأمد"
       EN: "lts"
+    MERGE: 
+      AR: "دمج"
+      EN: "merge"
+    PROVIDE: 
+      AR: "يُزود‏"
+      EN: "provide"
     RELEASE: 
       AR: "إصدار"
       EN: "release"
@@ -48,6 +78,14 @@
     STABLE: 
       AR: "مستقر"
       EN: "stable"
+    STATUS: 
+      AR: 
+        - "حالة"
+        - "وضع"
+      EN: "status"
+    SYNTAX: 
+      AR: "صياغة"
+      EN: "syntax"
     VARIABLE: 
       AR: "متغير"
       EN: "variable"
