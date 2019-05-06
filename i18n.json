@@ -33,6 +33,10 @@
     "STATUS": { "AR": ["حالة", "وضع"], "EN": "status" },
     "SYNTAX": { "AR": "صياغة", "EN": "syntax" },
     "VARIABLE": { "AR": "متغير", "EN": "variable" },
-    "VERSION": { "AR": "نسخة", "EN": "version" }
+    "VERSION": { "AR": "إصدار", "EN": "version" },
+    "INDEX": { "AR": "صفحة الرئيسية", "EN": "index" },
+    "STATEMENT": { "AR": "بيان", "EN": "statment" },
+    "PRINT": { "AR": "طبع", "EN": "print" },
+    "COMMIT": { "AR": "مساهمة", "EN": "commit" },
   }
 }
