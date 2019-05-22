@@ -63,6 +63,9 @@
     DOCUMENTATION: 
       AR: "توثيق"
       EN: "documentation"
+    ERROR: 
+      AR: "خطأ"
+      EN: "error"
     FEEDBACK: 
       AR: "تغذية راجعة"
       EN: "feedback"

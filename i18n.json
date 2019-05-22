@@ -25,6 +25,7 @@
     "DEPENDENCY": { "AR": "اعتماد", "EN": "dependency" },
     "DEVELOPMENT": { "AR": "تطوير", "EN": "development" },
     "DOCUMENTATION": { "AR": "توثيق", "EN": "documentation" },
+    "ERROR": { "AR": "خطأ", "EN": "error" },
     "FEEDBACK": { "AR": "تغذية راجعة", "EN": "feedback" },
     "FETCH": { "AR": ["إحضار", "جلب"], "EN": "fetch" },
     "FUNCTION": { "AR": "دالة", "EN": "function" },
@@ -66,7 +67,6 @@
     "USER": { "AR": ["مستخدم", "مستعمل"], "EN": "user" },
     "VARIABLE": { "AR": "متغير", "EN": "variable" },
     "VERSION": { "AR": "إصدار", "EN": "version" },
-    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" },
-    "ERROR": {"AR": "خطأ","EN": "error"}
+    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" }
   }
 }
