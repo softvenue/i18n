@@ -86,6 +86,9 @@
     HOST: 
       AR: "مضيف"
       EN: "host"
+    IMPORT: 
+      AR: "إستيراد"
+      EN: "import"
     INDEX: 
       AR: "صفحة الرئيسية"
       EN: "index"
