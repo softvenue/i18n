@@ -42,6 +42,7 @@
     "LOG": { "AR": "سجل", "EN": "log" },
     "LTS": { "AR": "دعم طويل الأمد", "EN": ["long term support", "lts"] },
     "MERGE": { "AR": "دمج", "EN": "merge" },
+    "OBJECT": { "AR": "كائن", "EN": "object" },
     "OUTPUT": { "AR": ["مخرج", "ناتج"], "EN": "output" },
     "PORT": { "AR": "منفذ", "EN": "port" },
     "PRINT": { "AR": "طبع", "EN": "print" },
@@ -68,7 +69,6 @@
     "USER": { "AR": ["مستخدم", "مستعمل"], "EN": "user" },
     "VARIABLE": { "AR": "متغير", "EN": "variable" },
     "VERSION": { "AR": "إصدار", "EN": "version" },
-    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" },
-    "OBJECT": {"AR": "كائن", "EN": "object"}
+    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" }
   }
 }
