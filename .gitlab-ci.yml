@@ -16,5 +16,5 @@ gitlab_commit_sort:
     - git add i18n.json
     - git add i18n.yml
     - git commit -m "gitlab CI update [ci skip]"
-    - git remote add gitlab https://${GH_TOKEN}@github.com/InterstellarClub/i18n.git
+    - git remote add gitlab https://${GH_TOKEN}@github.com/softvenue/i18n.git
     - git push gitlab master
