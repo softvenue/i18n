@@ -120,6 +120,9 @@
     MERGE: 
       AR: "دمج"
       EN: "merge"
+    OBJECT: 
+      AR: "كائن"
+      EN: "object"
     OUTPUT: 
       AR: 
         - "مخرج"
