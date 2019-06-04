@@ -32,6 +32,14 @@
     "GETTING_STARTED": { "AR": "البدء", "EN": "getting started" },
     "GUIDE": { "AR": "دليل", "EN": "guide" },
     "HOST": { "AR": "مضيف", "EN": "host" },
+    "HTTP": {
+      "AR": "بروتوكول نقل النص التشعبي",
+      "EN": "hypertext transfer protocol"
+    },
+    "HTTPS": {
+      "AR": "بروتوكول نقل النص التشعبي الآمن",
+      "EN": "Hypertext Transfer Protocol Secure"
+    },
     "IMPORT": { "AR": "إستيراد", "EN": "import" },
     "INDEX": { "AR": "صفحة الرئيسية", "EN": "index" },
     "INPUT": { "AR": ["مدخل", "معطى"], "EN": "input" },
@@ -69,8 +77,6 @@
     "USER": { "AR": ["مستخدم", "مستعمل"], "EN": "user" },
     "VARIABLE": { "AR": "متغير", "EN": "variable" },
     "VERSION": { "AR": "إصدار", "EN": "version" },
-    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" },
-    "HTTP": { "AR": "بروتوكول نقل النص التشعبي", "EN": "hypertext transfer protocol" },
-    "HTTPS": { "AR": "بروتوكول نقل النص التشعبي الآمن", "EN": "Hypertext Transfer Protocol Secure" }
+    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" }
   }
 }

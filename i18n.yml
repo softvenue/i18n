@@ -86,6 +86,12 @@
     HOST: 
       AR: "مضيف"
       EN: "host"
+    HTTP: 
+      AR: "بروتوكول نقل النص التشعبي"
+      EN: "hypertext transfer protocol"
+    HTTPS: 
+      AR: "بروتوكول نقل النص التشعبي الآمن"
+      EN: "Hypertext Transfer Protocol Secure"
     IMPORT: 
       AR: "إستيراد"
       EN: "import"
