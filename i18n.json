@@ -21,7 +21,7 @@
     "CONSTANT": { "AR": "ثابت", "EN": "constant" },
     "CURRENT": { "AR": "حالي", "EN": "current" },
     "DATA": { "AR": "بيانات", "EN": "data" },
-    "DEBUG": { "AR": "تنقيح الأخطاء", "EN": "debug" },
+    "DEBUG": { "AR": "تنقيح", "EN": "debug" },
     "DEPENDENCY": { "AR": "اعتماد", "EN": "dependency" },
     "DEVELOPMENT": { "AR": "تطوير", "EN": "development" },
     "DOCUMENTATION": { "AR": "توثيق", "EN": "documentation" },
