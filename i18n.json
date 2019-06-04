@@ -69,6 +69,8 @@
     "USER": { "AR": ["مستخدم", "مستعمل"], "EN": "user" },
     "VARIABLE": { "AR": "متغير", "EN": "variable" },
     "VERSION": { "AR": "إصدار", "EN": "version" },
-    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" }
+    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" },
+    "HTTP": { "AR": "بروتوكول نقل النص التشعبي", "EN": "hypertext transfer protocol" },
+    "HTTPS": { "AR": "بروتوكول نقل النص التشعبي الآمن", "EN": "Hypertext Transfer Protocol Secure" }
   }
 }
