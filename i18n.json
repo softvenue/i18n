@@ -66,6 +66,7 @@
     "USER": { "AR": ["مستخدم", "مستعمل"], "EN": "user" },
     "VARIABLE": { "AR": "متغير", "EN": "variable" },
     "VERSION": { "AR": "إصدار", "EN": "version" },
-    "WEB": { "AR": ["ويب", "شبكة عنكبوتية"], "EN": "web" }
+    "WEB": { "AR": ["ويب", "شبكة عنكبوتية"], "EN": "web" },
+    "EMAIL":{"AR":"بريد إلكتروني","EN":"electronic mail"}
   }
 }
