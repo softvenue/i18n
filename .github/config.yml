@@ -1,0 +1,14 @@
+
+newIssueWelcomeComment: >
+  "شكرا لافتتاح مشكلتك أو إقتراحك الأول هنا!"
+
+newPRWelcomeComment: >
+  "شكرا لمساهمة الأولى، تفضل مشكوراً بقراءة [دليل المساهمة](https://github.com/InterstellarClub/i18n/blob/master/CONTRIBUTING.md)."
+
+firstPRMergeComment: >
+   "تهانينا على دمج طلب الإيداعك الأول! "
+
+requestInfoReplyComment: >
+  "سنكون ممتنين لو تفضلتم بتزويدنا بمزيد من المعلومات حول طلب الإيداعك هذا !"
+
+requestInfoLabelToAdd: needs-more-info

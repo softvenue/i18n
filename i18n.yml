@@ -1,212 +1,228 @@
 ---
-TERM:
-  ABI:
-    AR: واجهة التطبيق الثنائية
-    EN: Application Binary Interface
-  ADDRESS:
-    AR: عنوان
-    EN: address
-  ALGORITHM:
-    AR: خوارزمية
-    EN: algorithm
-  API:
-    AR: واجهة تطبيقات البرمجية
-    EN: Application Programming Interface
-  APPLICATION:
-    AR: تطبيق
-    EN:
-      - app
-      - application
-  ARGUMENT:
-    AR: معطى
-    EN: argument
-  ARRAY:
-    AR: مصفوفة
-    EN: array
-  BASIC:
-    AR: أساسي
-    EN: basic
-  BRANCH:
-    AR:
-      - شعبة
-      - فرع
-    EN: branch
-  CODE:
-    AR: شيفرة
-    EN: code
-  COMMIT:
-    AR: مساهمة
-    EN: commit
-  CONFIG:
-    AR:
-      - إعداد
-      - تهيئة
-    EN: config
-  CONSTANT:
-    AR: ثابت
-    EN: constant
-  CURRENT:
-    AR: حالي
-    EN: current
-  DATA:
-    AR: بيانات
-    EN: data
-  DEBUG:
-    AR: تصحيح الأخطاء
-    EN: debug
-  DEPENDENCY:
-    AR: اعتماد
-    EN: dependency
-  DEVELOPMENT:
-    AR: تطوير
-    EN: development
-  DOCUMENTATION:
-    AR: توثيق
-    EN: documentation
-  FEEDBACK:
-    AR: تغذية راجعة
-    EN: feedback
-  FETCH:
-    AR:
-      - إحضار
-      - جلب
-    EN: fetch
-  FUNCTION:
-    AR: دالة
-    EN: function
-  GETTING_STARTED:
-    AR: البدء
-    EN: getting started
-  GUIDE:
-    AR: دليل
-    EN: guide
-  HOST:
-    AR: مضيف
-    EN: host
-  INDEX:
-    AR: صفحة الرئيسية
-    EN: index
-  INPUT:
-    AR:
-      - مدخل
-      - معطى
-    EN: input
-  INSPECT:
-    AR: تدقيق
-    EN: inspect
-  INTERNATIONALIZATION:
-    AR: تدويل
-    EN: internationalization
-  LEGACY:
-    AR: قديم
-    EN: legacy
-  LICENSE:
-    AR: رخصة
-    EN: license
-  LOG:
-    AR: سجل
-    EN: log
-  LTS:
-    AR: دعم طويل الأمد
-    EN:
-      - lts
-      - long term support
-  MERGE:
-    AR: دمج
-    EN: merge
-  OUTPUT:
-    AR:
-      - مخرج
-      - ناتج
-    EN: output
-  PORT:
-    AR: منفذ
-    EN: port
-  PRINT:
-    AR: طبع
-    EN: print
-  PROGRAM:
-    AR: برمجية
-    EN: program
-  PROTOCOL:
-    AR: بروتوكول
-    EN: protocol
-  PROVIDE:
-    AR: يُزود‏
-    EN: provide
-  RELEASE:
-    AR: إصدار
-    EN: release
-  REMOTE:
-    AR: بعيد
-    EN: remote
-  REPOSITORY:
-    AR: مستودع
-    EN:
-      - repository
-  RUNTIME:
-    AR:
-      - وقت التشغيل
-      - وقت التنفيذ
-    EN: runtime
-  SCRIPT:
-    AR:
-      - سكريبت
-      - نص برمجي
-    EN: script
-  SERVER:
-    AR: خادوم
-    EN: server
-  SOFTWARE:
-    AR: برنامج
-    EN: software
-  SORT:
-    AR: فرز
-    EN: sort
-  SOURCE:
-    AR: مصدر
-    EN: source
-  STABLE:
-    AR: مستقر
-    EN: stable
-  STATEMENT:
-    AR: بيان
-    EN: statment
-  STATUS:
-    AR:
-      - حالة
-      - وضع
-    EN: status
-  STRUCTURE:
-    AR:
-      - بنية
-      - هيكلية
-    EN: structure
-  SYNTAX:
-    AR: صيغة
-    EN: syntax
-  TAG:
-    AR: وسم
-    EN: tag
-  TUNNEL:
-    AR: قناة
-    EN: tunnel
-  TYPE:
-    AR: نوع
-    EN: type
-  USER:
-    AR:
-      - مستخدم
-      - مستعمل
-    EN: user
-  VARIABLE:
-    AR: متغير
-    EN: variable
-  VERSION:
-    AR: إصدار
-    EN: version
-  WEB:
-    AR:
-      - ويب
-      - شبكة عنكبوتية
-    EN: web
+  TERM: 
+    ABI: 
+      AR: "واجهة التطبيق الثنائية"
+      EN: "Application Binary Interface"
+    ADDRESS: 
+      AR: "عنوان"
+      EN: "address"
+    ALGORITHM: 
+      AR: "خوارزمية"
+      EN: "algorithm"
+    API: 
+      AR: "واجهة تطبيقات البرمجية"
+      EN: "Application Programming Interface"
+    APPLICATION: 
+      AR: "تطبيق"
+      EN: 
+        - "app"
+        - "application"
+    ARGUMENT: 
+      AR: "معطى"
+      EN: "argument"
+    ARRAY: 
+      AR: "مصفوفة"
+      EN: "array"
+    BASIC: 
+      AR: "أساسي"
+      EN: "basic"
+    BRANCH: 
+      AR: 
+        - "شعبة"
+        - "فرع"
+      EN: "branch"
+    CODE: 
+      AR: "شيفرة"
+      EN: "code"
+    COMMIT: 
+      AR: "مساهمة"
+      EN: "commit"
+    CONFIG: 
+      AR: 
+        - "إعداد"
+        - "تهيئة"
+      EN: "config"
+    CONSTANT: 
+      AR: "ثابت"
+      EN: "constant"
+    CURRENT: 
+      AR: "حالي"
+      EN: "current"
+    DATA: 
+      AR: "بيانات"
+      EN: "data"
+    DEBUG: 
+      AR: "تنقيح"
+      EN: "debug"
+    DEPENDENCY: 
+      AR: "اعتماد"
+      EN: "dependency"
+    DEVELOPMENT: 
+      AR: "تطوير"
+      EN: "development"
+    DOCUMENTATION: 
+      AR: "توثيق"
+      EN: "documentation"
+    ERROR: 
+      AR: "خطأ"
+      EN: "error"
+    FEEDBACK: 
+      AR: "تغذية راجعة"
+      EN: "feedback"
+    FETCH: 
+      AR: 
+        - "إحضار"
+        - "جلب"
+      EN: "fetch"
+    FUNCTION: 
+      AR: "دالة"
+      EN: "function"
+    GETTING_STARTED: 
+      AR: "البدء"
+      EN: "getting started"
+    GUIDE: 
+      AR: "دليل"
+      EN: "guide"
+    HOST: 
+      AR: "مضيف"
+      EN: "host"
+    HTTP: 
+      AR: "بروتوكول نقل النص التشعبي"
+      EN: "hypertext transfer protocol"
+    HTTPS: 
+      AR: "بروتوكول نقل النص التشعبي الآمن"
+      EN: "Hypertext Transfer Protocol Secure"
+    IMPORT: 
+      AR: "إستيراد"
+      EN: "import"
+    INDEX: 
+      AR: "صفحة الرئيسية"
+      EN: "index"
+    INPUT: 
+      AR: 
+        - "مدخل"
+        - "معطى"
+      EN: "input"
+    INSPECT: 
+      AR: "تدقيق"
+      EN: "inspect"
+    INTERNATIONALIZATION: 
+      AR: "تدويل"
+      EN: "internationalization"
+    LEGACY: 
+      AR: "قديم"
+      EN: "legacy"
+    LICENSE: 
+      AR: "رخصة"
+      EN: "license"
+    LOG: 
+      AR: "سجل"
+      EN: "log"
+    LTS: 
+      AR: "دعم طويل الأمد"
+      EN: 
+        - "long term support"
+        - "lts"
+    MERGE: 
+      AR: "دمج"
+      EN: "merge"
+    OBJECT: 
+      AR: "كائن"
+      EN: "object"
+    OUTPUT: 
+      AR: 
+        - "مخرج"
+        - "ناتج"
+      EN: "output"
+    PORT: 
+      AR: "منفذ"
+      EN: "port"
+    PRINT: 
+      AR: "طبع"
+      EN: "print"
+    PROGRAM: 
+      AR: "برمجية"
+      EN: "program"
+    PROTOCOL: 
+      AR: "بروتوكول"
+      EN: "protocol"
+    PROVIDE: 
+      AR: "يُزود‏"
+      EN: "provide"
+    RELEASE: 
+      AR: "إصدار"
+      EN: "release"
+    REMOTE: 
+      AR: "بعيد"
+      EN: "remote"
+    REPOSITORY: 
+      AR: "مستودع"
+      EN: 
+        - "repository"
+    RUNTIME: 
+      AR: 
+        - "وقت التشغيل"
+        - "وقت التنفيذ"
+      EN: "runtime"
+    SCRIPT: 
+      AR: 
+        - "سكريبت"
+        - "نص برمجي"
+      EN: "script"
+    SERVER: 
+      AR: "خادوم"
+      EN: "server"
+    SOFTWARE: 
+      AR: "برنامج"
+      EN: "software"
+    SORT: 
+      AR: "فرز"
+      EN: "sort"
+    SOURCE: 
+      AR: "مصدر"
+      EN: "source"
+    STABLE: 
+      AR: "مستقر"
+      EN: "stable"
+    STATEMENT: 
+      AR: "بيان"
+      EN: "statment"
+    STATUS: 
+      AR: 
+        - "حالة"
+        - "وضع"
+      EN: "status"
+    STRUCTURE: 
+      AR: 
+        - "بنية"
+        - "هيكلية"
+      EN: "structure"
+    SYNTAX: 
+      AR: "صيغة"
+      EN: "syntax"
+    TAG: 
+      AR: "وسم"
+      EN: "tag"
+    TUNNEL: 
+      AR: "قناة"
+      EN: "tunnel"
+    TYPE: 
+      AR: "نوع"
+      EN: "type"
+    USER: 
+      AR: 
+        - "مستخدم"
+        - "مستعمل"
+      EN: "user"
+    VARIABLE: 
+      AR: "متغير"
+      EN: "variable"
+    VERSION: 
+      AR: "إصدار"
+      EN: "version"
+    WEB: 
+      AR: 
+        - "شبكة عنكبوتية"
+        - "ويب"
+      EN: "web"
+
