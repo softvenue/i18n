@@ -63,6 +63,9 @@
     DOCUMENTATION: 
       AR: "توثيق"
       EN: "documentation"
+    EMAIL: 
+      AR: "بريد إلكتروني"
+      EN: "electronic mail"
     ERROR: 
       AR: "خطأ"
       EN: "error"
