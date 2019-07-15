@@ -175,6 +175,9 @@
     SERVER: 
       AR: "خادوم"
       EN: "server"
+    SHORTCUT: 
+      AR: "إختصار"
+      EN: "shortcut"
     SOFTWARE: 
       AR: "برنامج"
       EN: "software"

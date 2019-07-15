@@ -64,6 +64,7 @@
     "RUNTIME": { "AR": ["وقت التشغيل", "وقت التنفيذ"], "EN": "runtime" },
     "SCRIPT": { "AR": ["سكريبت", "نص برمجي"], "EN": "script" },
     "SERVER": { "AR": "خادوم", "EN": "server" },
+    "SHORTCUT": { "AR": "إختصار", "EN": "shortcut" },
     "SOFTWARE": { "AR": "برنامج", "EN": "software" },
     "SORT": { "AR": "فرز", "EN": "sort" },
     "SOURCE": { "AR": "مصدر", "EN": "source" },
@@ -78,7 +79,6 @@
     "USER": { "AR": ["مستخدم", "مستعمل"], "EN": "user" },
     "VARIABLE": { "AR": "متغير", "EN": "variable" },
     "VERSION": { "AR": "إصدار", "EN": "version" },
-    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" },
-    "SHORTCUT":{"AR":"إختصار", "EN": "shortcut"}
+    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" }
   }
 }
