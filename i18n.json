@@ -78,6 +78,7 @@
     "USER": { "AR": ["مستخدم", "مستعمل"], "EN": "user" },
     "VARIABLE": { "AR": "متغير", "EN": "variable" },
     "VERSION": { "AR": "إصدار", "EN": "version" },
-    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" }
+    "WEB": { "AR": ["شبكة عنكبوتية", "ويب"], "EN": "web" },
+    "SHORTCUT":{"AR":"إختصار", "EN": "shortcut"}
   }
 }
