@@ -84,7 +84,7 @@
     "BROWSER": { "AR": "متصفح", "EN": "browser" },
     "ARROW FUNCTION": { "AR": "دالة سهمية", "EN": "arrow function" },
     "HOOK": { "AR": "خطاف", "EN": "hook" },
-    "CDN": { "AR": "شبكة توزيع المحتوى", "EN": "cdn" },
+    "CDN": { "AR": "شبكة توزيع المحتوى", "EN": ["cdn","content delivery network"] },
     "STATE": { "AR": "الحالة", "EN": "state" },
     "LIFECYLCE": { "AR": "دورة حياة", "EN": "lifecycle" },
     "COMPONENT": { "AR": "مكون", "EN": "component" },
@@ -104,13 +104,13 @@
     "MAJOR": { "AR": ["جذري", "رئيسي"], "EN": "major" },
     "MINOR": { "AR": ["فرعي", "ثانوي"], "EN": "minor" },
     "PATCH": { "AR": ["رُقعة", "تصحيح"], "EN": "patch" },
-    "UI": { "AR": "واجهة المستخدم", "EN": "ui" },	
-    "UX": { "AR": "تجربة المستخدم", "EN": "ux" },
-    "GUI":  { "AR": "واجهة المستخدم الرسومية", "EN": "gui" },
+    "UI": { "AR": "واجهة المستخدم", "EN":  ["ui","user interface"] },	
+    "UX": { "AR": "تجربة المستخدم", "EN": ["ux","user experience"] },
+    "GUI":  { "AR": "واجهة المستخدم الرسومية", "EN": ["gui","graphical user interface"] },
     "ALERT": { "AR": "تنبيه", "EN": "alert" },
     "AUTHENTICATION": { "AR": "التثبت من الهوية", "EN": "authentication" },
     "AUTHORIZATION": { "AR": "التحقق من الصلاحية", "EN": "authorization" },
-    "DEVELOPER TOOLS":  { "AR": "أدوات المطور", "EN": "developer tools" },
+    "DEVELOPER_TOOLS":  { "AR": "أدوات المطور", "EN": "developer tools" },
     "EXTENSION":  { "AR": "إضافة", "EN": "extension" }
   }
 }
