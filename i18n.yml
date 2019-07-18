@@ -6,9 +6,15 @@
     ADDRESS: 
       AR: "عنوان"
       EN: "address"
+    ALERT: 
+      AR: "تنبيه"
+      EN: "alert"
     ALGORITHM: 
       AR: "خوارزمية"
       EN: "algorithm"
+    ANNOTATION: 
+      AR: "التوصيف"
+      EN: "annontation"
     API: 
       AR: "واجهة تطبيقات البرمجية"
       EN: "Application Programming Interface"
@@ -23,6 +29,15 @@
     ARRAY: 
       AR: "مصفوفة"
       EN: "array"
+    ARROW FUNCTION: 
+      AR: "دالة سهمية"
+      EN: "arrow function"
+    AUTHENTICATION: 
+      AR: "التثبت من الهوية"
+      EN: "authentication"
+    AUTHORIZATION: 
+      AR: "التحقق من الصلاحية"
+      EN: "authorization"
     BASIC: 
       AR: "أساسي"
       EN: "basic"
@@ -31,12 +46,29 @@
         - "شعبة"
         - "فرع"
       EN: "branch"
+    BROWSER: 
+      AR: "متصفح"
+      EN: "browser"
+    CDN: 
+      AR: "شبكة توزيع المحتوى"
+      EN: 
+        - "cdn"
+        - "content delivery network"
+    CLASS: 
+      AR: "صنف"
+      EN: "class"
+    CLINET: 
+      AR: "عميل"
+      EN: "client"
     CODE: 
       AR: "شيفرة"
       EN: "code"
     COMMIT: 
       AR: "مساهمة"
       EN: "commit"
+    COMPONENT: 
+      AR: "مكون"
+      EN: "component"
     CONFIG: 
       AR: 
         - "إعداد"
@@ -54,9 +86,15 @@
     DEBUG: 
       AR: "تنقيح"
       EN: "debug"
+    DEBUGGING: 
+      AR: "عملية تنقيح الأخطاء"
+      EN: "debugging"
     DEPENDENCY: 
       AR: "اعتماد"
       EN: "dependency"
+    DEVELOPER_TOOLS: 
+      AR: "أدوات المطور"
+      EN: "developer tools"
     DEVELOPMENT: 
       AR: "تطوير"
       EN: "development"
@@ -69,6 +107,12 @@
     ERROR: 
       AR: "خطأ"
       EN: "error"
+    EXCEPTION: 
+      AR: "إستثناء"
+      EN: "exception"
+    EXTENSION: 
+      AR: "إضافة"
+      EN: "extension"
     FEEDBACK: 
       AR: "تغذية راجعة"
       EN: "feedback"
@@ -77,15 +121,29 @@
         - "إحضار"
         - "جلب"
       EN: "fetch"
+    FRAMEWORK: 
+      AR: "إطار عمل"
+      EN: "framework"
     FUNCTION: 
       AR: "دالة"
       EN: "function"
+    GENERICS: 
+      AR: "الأنواع المُعمَّمة"
+      EN: "generics"
     GETTING_STARTED: 
       AR: "البدء"
       EN: "getting started"
+    GUI: 
+      AR: "واجهة المستخدم الرسومية"
+      EN: 
+        - "graphical user interface"
+        - "gui"
     GUIDE: 
       AR: "دليل"
       EN: "guide"
+    HOOK: 
+      AR: "خطاف"
+      EN: "hook"
     HOST: 
       AR: "مضيف"
       EN: "host"
@@ -118,17 +176,39 @@
     LICENSE: 
       AR: "رخصة"
       EN: "license"
+    LIFECYLCE: 
+      AR: "دورة حياة"
+      EN: "lifecycle"
     LOG: 
       AR: "سجل"
       EN: "log"
+    LOOPS: 
+      AR: "حلقات التكرار"
+      EN: "loops"
+    LOWERCASE: 
+      AR: "أحرف الصغيرة"
+      EN: "lowercase"
     LTS: 
       AR: "دعم طويل الأمد"
       EN: 
         - "long term support"
         - "lts"
+    MAJOR: 
+      AR: 
+        - "جذري"
+        - "رئيسي"
+      EN: "major"
     MERGE: 
       AR: "دمج"
       EN: "merge"
+    MINOR: 
+      AR: 
+        - "ثانوي"
+        - "فرعي"
+      EN: "minor"
+    MODULE: 
+      AR: "وحدة"
+      EN: "module"
     OBJECT: 
       AR: "كائن"
       EN: "object"
@@ -137,6 +217,14 @@
         - "مخرج"
         - "ناتج"
       EN: "output"
+    PACKAGE: 
+      AR: "حزمة"
+      EN: "package"
+    PATCH: 
+      AR: 
+        - "تصحيح"
+        - "رُقعة"
+      EN: "patch"
     PORT: 
       AR: "منفذ"
       EN: "port"
@@ -158,6 +246,9 @@
     REMOTE: 
       AR: "بعيد"
       EN: "remote"
+    RENDERING: 
+      AR: "تصيير"
+      EN: "rendering"
     REPOSITORY: 
       AR: "مستودع"
       EN: 
@@ -190,6 +281,9 @@
     STABLE: 
       AR: "مستقر"
       EN: "stable"
+    STATE: 
+      AR: "الحالة"
+      EN: "state"
     STATEMENT: 
       AR: "بيان"
       EN: "statment"
@@ -198,6 +292,9 @@
         - "حالة"
         - "وضع"
       EN: "status"
+    STRICT MODE: 
+      AR: "الوضع الصارم"
+      EN: "strict mode"
     STRUCTURE: 
       AR: 
         - "بنية"
@@ -215,11 +312,24 @@
     TYPE: 
       AR: "نوع"
       EN: "type"
+    UI: 
+      AR: "واجهة المستخدم"
+      EN: 
+        - "ui"
+        - "user interface"
+    UPPERCASE: 
+      AR: "أحرف الكبيرة"
+      EN: "uppercase"
     USER: 
       AR: 
         - "مستخدم"
         - "مستعمل"
       EN: "user"
+    UX: 
+      AR: "تجربة المستخدم"
+      EN: 
+        - "user experience"
+        - "ux"
     VARIABLE: 
       AR: "متغير"
       EN: "variable"
@@ -230,4 +340,5 @@
       AR: 
         - "شبكة عنكبوتية"
         - "ويب"
-      EN: "web"  
+      EN: "web"
+
