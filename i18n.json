@@ -19,8 +19,10 @@
     "AUTHENTICATION": { "AR": "التثبت من الهوية", "EN": "authentication" },
     "AUTHORIZATION": { "AR": "التحقق من الصلاحية", "EN": "authorization" },
     "BASIC": { "AR": "أساسي", "EN": "basic" },
+    "BIND": { "AR": "ربط", "EN": "bind" },
     "BRANCH": { "AR": ["شعبة", "فرع"], "EN": "branch" },
     "BROWSER": { "AR": "متصفح", "EN": "browser" },
+    "BUG": { "AR": "خطأ", "EN": "bug" },
     "CDN": {
       "AR": "شبكة توزيع المحتوى",
       "EN": ["cdn", "content delivery network"]
@@ -46,7 +48,7 @@
     "EXTENSION": { "AR": "إضافة", "EN": "extension" },
     "FEEDBACK": { "AR": "تغذية راجعة", "EN": "feedback" },
     "FETCH": { "AR": ["إحضار", "جلب"], "EN": "fetch" },
-    "FRAMEWORK": { "AR": "إطار عمل", "EN": "framework" },
+    "FRAMEWORK": { "AR": ["أداة", "إطار عمل"], "EN": "framework" },
     "FUNCTION": { "AR": "دالة", "EN": "function" },
     "GENERICS": { "AR": "الأنواع المُعمَّمة", "EN": "generics" },
     "GETTING_STARTED": { "AR": "البدء", "EN": "getting started" },
