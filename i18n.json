@@ -22,7 +22,7 @@
     "BIND": { "AR": "ربط", "EN": "bind" },
     "BRANCH": { "AR": ["شعبة", "فرع"], "EN": "branch" },
     "BROWSER": { "AR": "متصفح", "EN": "browser" },
-    "BUG": { "AR": "خطأ", "EN": "bug" },
+    "BUG": { "AR": ["خطأ", "خطأ برمجي"], "EN": "bug" },
     "CDN": {
       "AR": "شبكة توزيع المحتوى",
       "EN": ["cdn", "content delivery network"]
