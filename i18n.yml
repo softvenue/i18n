@@ -41,6 +41,9 @@
     BASIC: 
       AR: "أساسي"
       EN: "basic"
+    BIND: 
+      AR: "ربط"
+      EN: "bind"
     BRANCH: 
       AR: 
         - "شعبة"
@@ -49,6 +52,11 @@
     BROWSER: 
       AR: "متصفح"
       EN: "browser"
+    BUG: 
+      AR: 
+        - "خطأ برمجي"
+        - "خطأ"
+      EN: "bug"
     CDN: 
       AR: "شبكة توزيع المحتوى"
       EN: 
@@ -122,7 +130,9 @@
         - "جلب"
       EN: "fetch"
     FRAMEWORK: 
-      AR: "إطار عمل"
+      AR: 
+        - "أداة"
+        - "إطار عمل"
       EN: "framework"
     FUNCTION: 
       AR: "دالة"
