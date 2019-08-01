@@ -1,354 +1,455 @@
 ---
-  TERM: 
-    ABI: 
-      AR: "واجهة التطبيق الثنائية"
-      EN: "Application Binary Interface"
-    ADDRESS: 
-      AR: "عنوان"
-      EN: "address"
-    ALERT: 
-      AR: "تنبيه"
-      EN: "alert"
-    ALGORITHM: 
-      AR: "خوارزمية"
-      EN: "algorithm"
-    ANNOTATION: 
-      AR: "التوصيف"
-      EN: "annontation"
-    API: 
-      AR: "واجهة تطبيقات البرمجية"
-      EN: "Application Programming Interface"
-    APPLICATION: 
-      AR: "تطبيق"
-      EN: 
-        - "app"
-        - "application"
-    ARGUMENT: 
-      AR: "معطى"
-      EN: "argument"
-    ARRAY: 
-      AR: "مصفوفة"
-      EN: "array"
-    ARROW FUNCTION: 
-      AR: "دالة سهمية"
-      EN: "arrow function"
-    AUTHENTICATION: 
-      AR: "التثبت من الهوية"
-      EN: "authentication"
-    AUTHORIZATION: 
-      AR: "التحقق من الصلاحية"
-      EN: "authorization"
-    BASIC: 
-      AR: "أساسي"
-      EN: "basic"
-    BIND: 
-      AR: "ربط"
-      EN: "bind"
-    BRANCH: 
-      AR: 
-        - "شعبة"
-        - "فرع"
-      EN: "branch"
-    BROWSER: 
-      AR: "متصفح"
-      EN: "browser"
-    BUG: 
-      AR: 
-        - "خطأ برمجي"
-        - "خطأ"
-      EN: "bug"
-    CDN: 
-      AR: "شبكة توزيع المحتوى"
-      EN: 
-        - "cdn"
-        - "content delivery network"
-    CLASS: 
-      AR: "صنف"
-      EN: "class"
-    CLINET: 
-      AR: "عميل"
-      EN: "client"
-    CODE: 
-      AR: "شيفرة"
-      EN: "code"
-    COMMIT: 
-      AR: "مساهمة"
-      EN: "commit"
-    COMPONENT: 
-      AR: "مكون"
-      EN: "component"
-    CONFIG: 
-      AR: 
-        - "إعداد"
-        - "تهيئة"
-      EN: "config"
-    CONSTANT: 
-      AR: "ثابت"
-      EN: "constant"
-    CURRENT: 
-      AR: "حالي"
-      EN: "current"
-    DATA: 
-      AR: "بيانات"
-      EN: "data"
-    DEBUG: 
-      AR: "تنقيح"
-      EN: "debug"
-    DEBUGGING: 
-      AR: "عملية تنقيح الأخطاء"
-      EN: "debugging"
-    DEPENDENCY: 
-      AR: "اعتماد"
-      EN: "dependency"
-    DEVELOPER_TOOLS: 
-      AR: "أدوات المطور"
-      EN: "developer tools"
-    DEVELOPMENT: 
-      AR: "تطوير"
-      EN: "development"
-    DOCUMENTATION: 
-      AR: "توثيق"
-      EN: "documentation"
-    EMAIL: 
-      AR: "بريد إلكتروني"
-      EN: "electronic mail"
-    ERROR: 
-      AR: "خطأ"
-      EN: "error"
-    EXCEPTION: 
-      AR: "إستثناء"
-      EN: "exception"
-    EXTENSION: 
-      AR: "إضافة"
-      EN: "extension"
-    FEEDBACK: 
-      AR: "تغذية راجعة"
-      EN: "feedback"
-    FETCH: 
-      AR: 
-        - "إحضار"
-        - "جلب"
-      EN: "fetch"
-    FRAMEWORK: 
-      AR: 
-        - "أداة"
-        - "إطار عمل"
-      EN: "framework"
-    FUNCTION: 
-      AR: "دالة"
-      EN: "function"
-    GENERICS: 
-      AR: "الأنواع المُعمَّمة"
-      EN: "generics"
-    GETTING_STARTED: 
-      AR: "البدء"
-      EN: "getting started"
-    GUI: 
-      AR: "واجهة المستخدم الرسومية"
-      EN: 
-        - "graphical user interface"
-        - "gui"
-    GUIDE: 
-      AR: "دليل"
-      EN: "guide"
-    HOOK: 
-      AR: "خطاف"
-      EN: "hook"
-    HOST: 
-      AR: "مضيف"
-      EN: "host"
-    HTTP: 
-      AR: "بروتوكول نقل النص التشعبي"
-      EN: "hypertext transfer protocol"
-    HTTPS: 
-      AR: "بروتوكول نقل النص التشعبي الآمن"
-      EN: "Hypertext Transfer Protocol Secure"
-    IMPORT: 
-      AR: "إستيراد"
-      EN: "import"
-    INDEX: 
-      AR: "صفحة الرئيسية"
-      EN: "index"
-    INPUT: 
-      AR: 
-        - "مدخل"
-        - "معطى"
-      EN: "input"
-    INSPECT: 
-      AR: "تدقيق"
-      EN: "inspect"
-    INTERNATIONALIZATION: 
-      AR: "تدويل"
-      EN: "internationalization"
-    LEGACY: 
-      AR: "قديم"
-      EN: "legacy"
-    LICENSE: 
-      AR: "رخصة"
-      EN: "license"
-    LIFECYLCE: 
-      AR: "دورة حياة"
-      EN: "lifecycle"
-    LOG: 
-      AR: "سجل"
-      EN: "log"
-    LOOPS: 
-      AR: "حلقات التكرار"
-      EN: "loops"
-    LOWERCASE: 
-      AR: "أحرف الصغيرة"
-      EN: "lowercase"
-    LTS: 
-      AR: "دعم طويل الأمد"
-      EN: 
-        - "long term support"
-        - "lts"
-    MAJOR: 
-      AR: 
-        - "جذري"
-        - "رئيسي"
-      EN: "major"
-    MERGE: 
-      AR: "دمج"
-      EN: "merge"
-    MINOR: 
-      AR: 
-        - "ثانوي"
-        - "فرعي"
-      EN: "minor"
-    MODULE: 
-      AR: "وحدة"
-      EN: "module"
-    OBJECT: 
-      AR: "كائن"
-      EN: "object"
-    OUTPUT: 
-      AR: 
-        - "مخرج"
-        - "ناتج"
-      EN: "output"
-    PACKAGE: 
-      AR: "حزمة"
-      EN: "package"
-    PATCH: 
-      AR: 
-        - "تصحيح"
-        - "رُقعة"
-      EN: "patch"
-    PORT: 
-      AR: "منفذ"
-      EN: "port"
-    PRINT: 
-      AR: "طبع"
-      EN: "print"
-    PROGRAM: 
-      AR: "برمجية"
-      EN: "program"
-    PROTOCOL: 
-      AR: "بروتوكول"
-      EN: "protocol"
-    PROVIDE: 
-      AR: "يُزود‏"
-      EN: "provide"
-    RELEASE: 
-      AR: "إصدار"
-      EN: "release"
-    REMOTE: 
-      AR: "بعيد"
-      EN: "remote"
-    RENDERING: 
-      AR: "تصيير"
-      EN: "rendering"
-    REPOSITORY: 
-      AR: "مستودع"
-      EN: 
-        - "repository"
-    RUNTIME: 
-      AR: 
-        - "وقت التشغيل"
-        - "وقت التنفيذ"
-      EN: "runtime"
-    SCRIPT: 
-      AR: 
-        - "سكريبت"
-        - "نص برمجي"
-      EN: "script"
-    SERVER: 
-      AR: "خادوم"
-      EN: "server"
-    SHORTCUT: 
-      AR: "إختصار"
-      EN: "shortcut"
-    SOFTWARE: 
-      AR: "برنامج"
-      EN: "software"
-    SORT: 
-      AR: "فرز"
-      EN: "sort"
-    SOURCE: 
-      AR: "مصدر"
-      EN: "source"
-    STABLE: 
-      AR: "مستقر"
-      EN: "stable"
-    STATE: 
-      AR: "الحالة"
-      EN: "state"
-    STATEMENT: 
-      AR: "بيان"
-      EN: "statment"
-    STATUS: 
-      AR: 
-        - "حالة"
-        - "وضع"
-      EN: "status"
-    STRICT MODE: 
-      AR: "الوضع الصارم"
-      EN: "strict mode"
-    STRUCTURE: 
-      AR: 
-        - "بنية"
-        - "هيكلية"
-      EN: "structure"
-    SYNTAX: 
-      AR: "صيغة"
-      EN: "syntax"
-    TAG: 
-      AR: "وسم"
-      EN: "tag"
-    TUNNEL: 
-      AR: "قناة"
-      EN: "tunnel"
-    TYPE: 
-      AR: "نوع"
-      EN: "type"
-    UI: 
-      AR: "واجهة المستخدم"
-      EN: 
-        - "ui"
-        - "user interface"
-    UPPERCASE: 
-      AR: "أحرف الكبيرة"
-      EN: "uppercase"
-    USER: 
-      AR: 
-        - "مستخدم"
-        - "مستعمل"
-      EN: "user"
-    UX: 
-      AR: "تجربة المستخدم"
-      EN: 
-        - "user experience"
-        - "ux"
-    VARIABLE: 
-      AR: "متغير"
-      EN: "variable"
-    VERSION: 
-      AR: "إصدار"
-      EN: "version"
-    WEB: 
-      AR: 
-        - "شبكة عنكبوتية"
-        - "ويب"
-      EN: "web"
+  - 
+    term: "ABI"
+    wAR: "واجهة التطبيق الثنائية"
+    wEN: "Application Binary Interface"
+  - 
+    term: "ADDRESS"
+    wAR: "عنوان"
+    wEN: "address"
+  - 
+    term: "ALERT"
+    wAR: "تنبيه"
+    wEN: "alert"
+  - 
+    term: "ALGORITHM"
+    wAR: "خوارزمية"
+    wEN: "algorithm"
+  - 
+    term: "ANNOTATION"
+    wAR: "التوصيف"
+    wEN: "annontation"
+  - 
+    term: "API"
+    wAR: "واجهة تطبيقات البرمجية"
+    wEN: "Application Programming Interface"
+  - 
+    term: "APPLICATION"
+    wAR: "تطبيق"
+    wEN: 
+      - "app"
+      - "application"
+  - 
+    term: "ARGUMENT"
+    wAR: "معطى"
+    wEN: "argument"
+  - 
+    term: "ARRAY"
+    wAR: "مصفوفة"
+    wEN: "array"
+  - 
+    term: "ARROW_FUNCTION"
+    wAR: "دالة سهمية"
+    wEN: "arrow function"
+  - 
+    term: "AUTHENTICATION"
+    wAR: "التثبت من الهوية"
+    wEN: "authentication"
+  - 
+    term: "AUTHORIZATION"
+    wAR: "التحقق من الصلاحية"
+    wEN: "authorization"
+  - 
+    term: "BASIC"
+    wAR: "أساسي"
+    wEN: "basic"
+  - 
+    term: "BIND"
+    wAR: "ربط"
+    wEN: "bind"
+  - 
+    term: "BRANCH"
+    wAR: 
+      - "شعبة"
+      - "فرع"
+    wEN: "branch"
+  - 
+    term: "BROWSER"
+    wAR: "متصفح"
+    wEN: "browser"
+  - 
+    term: "BUG"
+    wAR: 
+      - "خطأ برمجي"
+      - "خطأ"
+    wEN: "bug"
+  - 
+    term: "CDN"
+    wAR: "شبكة توزيع المحتوى"
+    wEN: 
+      - "cdn"
+      - "content delivery network"
+  - 
+    term: "CLASS"
+    wAR: "صنف"
+    wEN: "class"
+  - 
+    term: "CLINET"
+    wAR: "عميل"
+    wEN: "client"
+  - 
+    term: "CODE"
+    wAR: "شيفرة"
+    wEN: "code"
+  - 
+    term: "COMMIT"
+    wAR: "مساهمة"
+    wEN: "commit"
+  - 
+    term: "COMPONENT"
+    wAR: "مكون"
+    wEN: "component"
+  - 
+    term: "CONFIG"
+    wAR: 
+      - "إعداد"
+      - "تهيئة"
+    wEN: "config"
+  - 
+    term: "CONSTANT"
+    wAR: "ثابت"
+    wEN: "constant"
+  - 
+    term: "CURRENT"
+    wAR: "حالي"
+    wEN: "current"
+  - 
+    term: "DATA"
+    wAR: "بيانات"
+    wEN: "data"
+  - 
+    term: "DEBUG"
+    wAR: "تنقيح"
+    wEN: "debug"
+  - 
+    term: "DEBUGGING"
+    wAR: "عملية تنقيح الأخطاء"
+    wEN: "debugging"
+  - 
+    term: "DEPENDENCY"
+    wAR: "اعتماد"
+    wEN: "dependency"
+  - 
+    term: "DEVELOPER_TOOLS"
+    wAR: "أدوات المطور"
+    wEN: "developer tools"
+  - 
+    term: "DEVELOPMENT"
+    wAR: "تطوير"
+    wEN: "development"
+  - 
+    term: "DOCUMENTATION"
+    wAR: "توثيق"
+    wEN: "documentation"
+  - 
+    term: "EMAIL"
+    wAR: "بريد إلكتروني"
+    wEN: "electronic mail"
+  - 
+    term: "ERROR"
+    wAR: "خطأ"
+    wEN: "error"
+  - 
+    term: "EXCEPTION"
+    wAR: "إستثناء"
+    wEN: "exception"
+  - 
+    term: "EXTENSION"
+    wAR: "إضافة"
+    wEN: "extension"
+  - 
+    term: "FEEDBACK"
+    wAR: "تغذية راجعة"
+    wEN: "feedback"
+  - 
+    term: "FETCH"
+    wAR: 
+      - "إحضار"
+      - "جلب"
+    wEN: "fetch"
+  - 
+    term: "FRAMEWORK"
+    wAR: 
+      - "أداة"
+      - "إطار عمل"
+    wEN: "framework"
+  - 
+    term: "FUNCTION"
+    wAR: "دالة"
+    wEN: "function"
+  - 
+    term: "GENERICS"
+    wAR: "الأنواع المُعمَّمة"
+    wEN: "generics"
+  - 
+    term: "GETTING_STARTED"
+    wAR: "البدء"
+    wEN: "getting started"
+  - 
+    term: "GUI"
+    wAR: "واجهة المستخدم الرسومية"
+    wEN: 
+      - "graphical user interface"
+      - "gui"
+  - 
+    term: "GUIDE"
+    wAR: "دليل"
+    wEN: "guide"
+  - 
+    term: "HOOK"
+    wAR: "خطاف"
+    wEN: "hook"
+  - 
+    term: "HOST"
+    wAR: "مضيف"
+    wEN: "host"
+  - 
+    term: "HTTP"
+    wAR: "بروتوكول نقل النص التشعبي"
+    wEN: "hypertext transfer protocol"
+  - 
+    term: "HTTPS"
+    wAR: "بروتوكول نقل النص التشعبي الآمن"
+    wEN: "Hypertext Transfer Protocol Secure"
+  - 
+    term: "IMPORT"
+    wAR: "إستيراد"
+    wEN: "import"
+  - 
+    term: "INDEX"
+    wAR: "صفحة الرئيسية"
+    wEN: "index"
+  - 
+    term: "INPUT"
+    wAR: 
+      - "مدخل"
+      - "معطى"
+    wEN: "input"
+  - 
+    term: "INSPECT"
+    wAR: "تدقيق"
+    wEN: "inspect"
+  - 
+    term: "INTERNATIONALIZATION"
+    wAR: "تدويل"
+    wEN: "internationalization"
+  - 
+    term: "LEGACY"
+    wAR: "قديم"
+    wEN: "legacy"
+  - 
+    term: "LICENSE"
+    wAR: "رخصة"
+    wEN: "license"
+  - 
+    term: "LIFECYLCE"
+    wAR: "دورة حياة"
+    wEN: "lifecycle"
+  - 
+    term: "LOG"
+    wAR: "سجل"
+    wEN: "log"
+  - 
+    term: "LOOPS"
+    wAR: "حلقات التكرار"
+    wEN: "loops"
+  - 
+    term: "LOWERCASE"
+    wAR: "أحرف الصغيرة"
+    wEN: "lowercase"
+  - 
+    term: "LTS"
+    wAR: "دعم طويل الأمد"
+    wEN: 
+      - "long term support"
+      - "lts"
+  - 
+    term: "MAJOR"
+    wAR: 
+      - "جذري"
+      - "رئيسي"
+    wEN: "major"
+  - 
+    term: "MERGE"
+    wAR: "دمج"
+    wEN: "merge"
+  - 
+    term: "MINOR"
+    wAR: 
+      - "ثانوي"
+      - "فرعي"
+    wEN: "minor"
+  - 
+    term: "MODULE"
+    wAR: "وحدة"
+    wEN: "module"
+  - 
+    term: "OBJECT"
+    wAR: "كائن"
+    wEN: "object"
+  - 
+    term: "OUTPUT"
+    wAR: 
+      - "مخرج"
+      - "ناتج"
+    wEN: "output"
+  - 
+    term: "PACKAGE"
+    wAR: "حزمة"
+    wEN: "package"
+  - 
+    term: "PATCH"
+    wAR: 
+      - "تصحيح"
+      - "رُقعة"
+    wEN: "patch"
+  - 
+    term: "PORT"
+    wAR: "منفذ"
+    wEN: "port"
+  - 
+    term: "PRINT"
+    wAR: "طبع"
+    wEN: "print"
+  - 
+    term: "PROGRAM"
+    wAR: "برمجية"
+    wEN: "program"
+  - 
+    term: "PROTOCOL"
+    wAR: "بروتوكول"
+    wEN: "protocol"
+  - 
+    term: "PROVIDE"
+    wAR: "يُزود‏"
+    wEN: "provide"
+  - 
+    term: "RELEASE"
+    wAR: "إصدار"
+    wEN: "release"
+  - 
+    term: "REMOTE"
+    wAR: "بعيد"
+    wEN: "remote"
+  - 
+    term: "RENDERING"
+    wAR: "تصيير"
+    wEN: "rendering"
+  - 
+    term: "REPOSITORY"
+    wAR: "مستودع"
+    wEN: 
+      - "repository"
+  - 
+    term: "RUNTIME"
+    wAR: 
+      - "وقت التشغيل"
+      - "وقت التنفيذ"
+    wEN: "runtime"
+  - 
+    term: "SCRIPT"
+    wAR: 
+      - "سكريبت"
+      - "نص برمجي"
+    wEN: "script"
+  - 
+    term: "SERVER"
+    wAR: "خادوم"
+    wEN: "server"
+  - 
+    term: "SHORTCUT"
+    wAR: "إختصار"
+    wEN: "shortcut"
+  - 
+    term: "SOFTWARE"
+    wAR: "برنامج"
+    wEN: "software"
+  - 
+    term: "SORT"
+    wAR: "فرز"
+    wEN: "sort"
+  - 
+    term: "SOURCE"
+    wAR: "مصدر"
+    wEN: "source"
+  - 
+    term: "STABLE"
+    wAR: "مستقر"
+    wEN: "stable"
+  - 
+    term: "STATE"
+    wAR: "الحالة"
+    wEN: "state"
+  - 
+    term: "STATEMENT"
+    wAR: "بيان"
+    wEN: "statment"
+  - 
+    term: "STATUS"
+    wAR: 
+      - "حالة"
+      - "وضع"
+    wEN: "status"
+  - 
+    term: "STRICT_MODE"
+    wAR: "الوضع الصارم"
+    wEN: "strict mode"
+  - 
+    term: "STRUCTURE"
+    wAR: 
+      - "بنية"
+      - "هيكلية"
+    wEN: "structure"
+  - 
+    term: "SYNTAX"
+    wAR: "صيغة"
+    wEN: "syntax"
+  - 
+    term: "TAG"
+    wAR: "وسم"
+    wEN: "tag"
+  - 
+    term: "TUNNEL"
+    wAR: "قناة"
+    wEN: "tunnel"
+  - 
+    term: "TYPE"
+    wAR: "نوع"
+    wEN: "type"
+  - 
+    term: "UI"
+    wAR: "واجهة المستخدم"
+    wEN: 
+      - "ui"
+      - "user interface"
+  - 
+    term: "UPPERCASE"
+    wAR: "أحرف الكبيرة"
+    wEN: "uppercase"
+  - 
+    term: "USER"
+    wAR: 
+      - "مستخدم"
+      - "مستعمل"
+    wEN: "user"
+  - 
+    term: "UX"
+    wAR: "تجربة المستخدم"
+    wEN: 
+      - "user experience"
+      - "ux"
+  - 
+    term: "VARIABLE"
+    wAR: "متغير"
+    wEN: "variable"
+  - 
+    term: "VERSION"
+    wAR: "إصدار"
+    wEN: "version"
+  - 
+    term: "WEB"
+    wAR: 
+      - "شبكة عنكبوتية"
+      - "ويب"
+    wEN: "web"
 
