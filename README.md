@@ -21,5 +21,5 @@
 - إلياس شوية <span dir="ltr">([@celyes](https://github.com/celyes))</span>: مساهم رئيسي
 - أحمد عيساوي <span dir="ltr">([@Aissaoui-Ahmed](https://github.com/Aissaoui-Ahmed))</span>: مساهم رئيسي
 
-لكل من يريد المساهمة، تفضل مشكوراً بقراءة [دليل المساهمة](https://github.com/InterstellarClub/i18n/blob/master/CONTRIBUTING.md)
+لكل من يريد المساهمة، تفضل مشكوراً بقراءة [دليل المساهمة](CONTRIBUTING.md)
 </div>
