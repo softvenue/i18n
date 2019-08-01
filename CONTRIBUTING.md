@@ -13,7 +13,8 @@
 
  ```json
     ...
-    "API": {"EN":"Application Programming Interface","AR":"واجهة تطبيقات البرمجية"}
+      { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
+      { "term": "APPLICATION", "wAR": "تطبيق", "wEN": ["app", "application"] },
     ...
 
 ```
