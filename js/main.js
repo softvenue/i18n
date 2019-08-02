@@ -27,7 +27,7 @@ $('#multiple-datasets .typeahead').typeahead({
   display: 'wEN',
   source: TermsEN,
   templates: {
-    header: '<h3 class="en">مصطلحات Terms</h3>',
+    header: '',
     suggestion: function (data) {
       return '<p><strong>' + data.wAR + '</strong> = ' + data.wEN + '</p>';
     }
