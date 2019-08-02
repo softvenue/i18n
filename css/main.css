@@ -1,5 +1,5 @@
 html {
-  font: normal normal normal 18px/1.2 "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
+  font: normal normal normal 18px/1.2 "Segoe UI", "Helvetica Neue", Roboto, Calibri, sans-serif;
   color: #292f33;
 }
 
@@ -9,10 +9,8 @@ html {
   text-align: center;
 }
 
-.typeahead,
 .tt-query,
 .tt-hint {
-  width: 396px;
   height: 30px;
   padding: 8px 12px;
   font-size: 24px;
@@ -26,6 +24,8 @@ html {
 
 .typeahead {
   background-color: #fff;
+  width: 100%;
+  font-family: "Segoe UI", "Helvetica Neue", sans-serif;
 }
 
 .typeahead:focus {
@@ -41,9 +41,11 @@ html {
 .tt-hint {
   color: #999
 }
-
+.twitter-typeahead{
+  width: 100%;
+}
 .tt-menu {
-  width: 422px;
+  width: 100%;
   margin: 12px 0;
   padding: 8px 0;
   background-color: #fff;
@@ -55,6 +57,7 @@ html {
   -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
      -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
           box-shadow: 0 5px 10px rgba(0,0,0,.2);
+  text-align: center;
 }
 
 .tt-suggestion {
@@ -94,4 +97,7 @@ html {
 
 ::placeholder {
   text-align: center;
+}
+.buttons .button{
+  margin: auto !important;
 }
