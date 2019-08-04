@@ -447,6 +447,10 @@
     wAR: "إصدار"
     wEN: "version"
   - 
+    term: "VULNERABILITY"
+    wAR: "ثغرة"
+    wEN: "vulnerability"
+  - 
     term: "WEB"
     wAR: 
       - "شبكة عنكبوتية"
