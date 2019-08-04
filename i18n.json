@@ -148,5 +148,6 @@
   { "term": "UX", "wAR": "تجربة المستخدم", "wEN": ["user experience", "ux"] },
   { "term": "VARIABLE", "wAR": "متغير", "wEN": "variable" },
   { "term": "VERSION", "wAR": "إصدار", "wEN": "version" },
+  { "term": "VULNERABILITY", "wAR": "ثغرة", "wEN": "vulnerability" },
   { "term": "WEB", "wAR": ["شبكة عنكبوتية", "ويب"], "wEN": "web" }
 ]
