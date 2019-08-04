@@ -5,7 +5,9 @@
     "wEN": "Application Binary Interface"
   },
   { "term": "ADDRESS", "wAR": "عنوان", "wEN": "address" },
+  { "term": "AGGREGATION", "wAR": "تجميع", "wEN": "aggregation" },
   { "term": "ALERT", "wAR": "تنبيه", "wEN": "alert" },
+  { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ALGORITHM", "wAR": "خوارزمية", "wEN": "algorithm" },
   { "term": "ANNOTATION", "wAR": "التوصيف", "wEN": "annontation" },
   {
@@ -15,8 +17,10 @@
   },
   { "term": "APPLICATION", "wAR": "تطبيق", "wEN": ["app", "application"] },
   { "term": "ARGUMENT", "wAR": "معطى", "wEN": "argument" },
+  { "term": "ARITHMETIC_OPERATOR", "wAR": "عامل حسابي", "wEN": "arithmetic operator" },
   { "term": "ARRAY", "wAR": "مصفوفة", "wEN": "array" },
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
+  { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
   {
     "term": "AUTHENTICATION",
     "wAR": "التثبت من الهوية",
@@ -24,7 +28,7 @@
   },
   {
     "term": "AUTHORIZATION",
-    "wAR": "التحقق من الصلاحية",
+    "wAR": "ترخيص",
     "wEN": "authorization"
   },
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
@@ -32,22 +36,29 @@
   { "term": "BRANCH", "wAR": ["شعبة", "فرع"], "wEN": "branch" },
   { "term": "BROWSER", "wAR": "متصفح", "wEN": "browser" },
   { "term": "BUG", "wAR": ["خطأ برمجي", "خطأ"], "wEN": "bug" },
+  { "term": "CALLBACK", "wAR": "استدعاء ثاني", "wEN": "callback" },
   {
     "term": "CDN",
     "wAR": "شبكة توزيع المحتوى",
     "wEN": ["cdn", "content delivery network"]
   },
-  { "term": "CLASS", "wAR": "صنف", "wEN": "class" },
+  { "term": "CLASS", "wAR": "مصنف", "wEN": "class" },
   { "term": "CLINET", "wAR": "عميل", "wEN": "client" },
   { "term": "CODE", "wAR": "شيفرة", "wEN": "code" },
   { "term": "COMMIT", "wAR": "مساهمة", "wEN": "commit" },
+  { "term": "COMPILER", "wAR": "مترجم", "wEN": "compiler" },
   { "term": "COMPONENT", "wAR": "مكون", "wEN": "component" },
+  { "term": "CONCATENATION", "wAR": ["دمج", "ربط"], "wEN": "concatenation" },
   { "term": "CONFIG", "wAR": ["إعداد", "تهيئة"], "wEN": "config" },
   { "term": "CONSTANT", "wAR": "ثابت", "wEN": "constant" },
+  { "term": "CONSTRUCTOR", "wAR": ["مشيد", "باني"], "wEN": "constructor" },
   { "term": "CURRENT", "wAR": "حالي", "wEN": "current" },
   { "term": "DATA", "wAR": "بيانات", "wEN": "data" },
   { "term": "DEBUG", "wAR": "تنقيح", "wEN": "debug" },
   { "term": "DEBUGGING", "wAR": "عملية تنقيح الأخطاء", "wEN": "debugging" },
+  { "term": "DECLARATION", "wAR": ["إعلان", "إنشاء"], "wEN": "declaration" },
+  { "term": "DECREMENT", "wAR": "إنقاص", "wEN": "decrement" },
+  { "term": "DELIMITER", "wAR": "مُحدِد", "wEN": "delimiter" },
   { "term": "DEPENDENCY", "wAR": "اعتماد", "wEN": "dependency" },
   {
     "term": "DEVELOPER_TOOLS",
@@ -56,14 +67,21 @@
   },
   { "term": "DEVELOPMENT", "wAR": "تطوير", "wEN": "development" },
   { "term": "DOCUMENTATION", "wAR": "توثيق", "wEN": "documentation" },
+  { "term": "DOM", "wAR": ["موديل كائن الوثيقة", "طراز كائن المستند"], "wEN": "document object model" },
   { "term": "EMAIL", "wAR": "بريد إلكتروني", "wEN": "electronic mail" },
+  { "term": "ENCAPSULATION", "wAR": "تغليف", "wEN": "encapsulation" },
   { "term": "ERROR", "wAR": "خطأ", "wEN": "error" },
+  { "term": "EVENT", "wAR": "حدث", "wEN": "event" },
+  { "term": "EVENT_LISTENER", "wAR": "مستمع للحدث", "wEN": "event listener" },
+  { "term": "EXPRESSION", "wAR": "تعبير", "wEN": "expression" },
   { "term": "EXCEPTION", "wAR": "إستثناء", "wEN": "exception" },
   { "term": "EXTENSION", "wAR": "إضافة", "wEN": "extension" },
+  { "term": "FALSE", "wAR": "خاطئ", "wEN": "false" },
   { "term": "FEEDBACK", "wAR": "تغذية راجعة", "wEN": "feedback" },
   { "term": "FETCH", "wAR": ["إحضار", "جلب"], "wEN": "fetch" },
   { "term": "FRAMEWORK", "wAR": ["أداة", "إطار عمل"], "wEN": "framework" },
   { "term": "FUNCTION", "wAR": "دالة", "wEN": "function" },
+  { "term": "GATHERING", "wAR": "تجميع", "wEN": "gathering" },
   { "term": "GENERICS", "wAR": "الأنواع المُعمَّمة", "wEN": "generics" },
   { "term": "GETTING_STARTED", "wAR": "البدء", "wEN": "getting started" },
   {
@@ -72,6 +90,7 @@
     "wEN": ["graphical user interface", "gui"]
   },
   { "term": "GUIDE", "wAR": "دليل", "wEN": "guide" },
+  { "term": "HASH", "wAR": ["رمز", "جزء"], "wEN": "hash" },
   { "term": "HOOK", "wAR": "خطاف", "wEN": "hook" },
   { "term": "HOST", "wAR": "مضيف", "wEN": "host" },
   {
@@ -84,8 +103,10 @@
     "wAR": "بروتوكول نقل النص التشعبي الآمن",
     "wEN": "Hypertext Transfer Protocol Secure"
   },
+  { "term": "IDE", "wAR": "بيئة تطوير مدمجة", "wEN": "integrated development environment" },
   { "term": "IMPORT", "wAR": "إستيراد", "wEN": "import" },
   { "term": "INDEX", "wAR": "صفحة الرئيسية", "wEN": "index" },
+  { "term": "INFORMATION", "wAR": "معلومات", "wEN": "information" },
   { "term": "INPUT", "wAR": ["مدخل", "معطى"], "wEN": "input" },
   { "term": "INSPECT", "wAR": "تدقيق", "wEN": "inspect" },
   {
@@ -97,7 +118,7 @@
   { "term": "LICENSE", "wAR": "رخصة", "wEN": "license" },
   { "term": "LIFECYLCE", "wAR": "دورة حياة", "wEN": "lifecycle" },
   { "term": "LOG", "wAR": "سجل", "wEN": "log" },
-  { "term": "LOOPS", "wAR": "حلقات التكرار", "wEN": "loops" },
+  { "term": "LOOPS", "wAR": ["حلقات التكرار", "حلقات", "حلقات تكرارية"], "wEN": "loops" },
   { "term": "LOWERCASE", "wAR": "أحرف الصغيرة", "wEN": "lowercase" },
   {
     "term": "LTS",
