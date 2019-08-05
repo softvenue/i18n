@@ -1,16 +1,27 @@
+@font-face {
+  font-family: droid;
+  src: url(../fonts/droid.ttf);
+}
 html {
-  font: normal normal normal 18px/1.2 "Segoe UI", "Helvetica Neue", Roboto, Calibri, sans-serif;
+  font: normal normal normal 18px/1.2 droid, "Segoe UI", "Helvetica Neue", Roboto, Calibri, sans-serif;
   color: #292f33;
 }
-
+body{
+  font-family: droid, sans-serif;
+}
 .container {
   max-width: 750px;
   margin: 0 auto;
   text-align: center;
 }
+.title{
+  font-weight: 200;
+}
 
 .tt-query,
 .tt-hint {
+  display: none;
+  /*
   height: 30px;
   padding: 8px 12px;
   font-size: 24px;
@@ -20,12 +31,13 @@ html {
      -moz-border-radius: 8px;
           border-radius: 8px;
   outline: none;
-}
+  */
+} 
 
 .typeahead {
   background-color: #fff;
   width: 100%;
-  font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+  font-family:  droid, "Segoe UI", "Helvetica Neue", sans-serif;
 }
 
 .typeahead:focus {
@@ -81,7 +93,12 @@ html {
 .tt-suggestion p {
   margin: 0;
 }
-
+.ar{
+  border-bottom: 1px solid #ededed;
+  padding-bottom: 4px;
+  margin-bottom: 5px;
+  color: #bbb;
+}
 #scrollable-dropdown-menu .tt-menu {
   max-height: 150px;
   overflow-y: auto;
@@ -98,6 +115,22 @@ html {
 ::placeholder {
   text-align: center;
 }
-.buttons .button{
-  margin: auto !important;
+.is-used-by-icon{
+  display: inline-block;
+  position: relative;
+  width: auto;
+  text-align: center;
+  font-size: 12px;
+}
+.is-used-by-icon svg{
+  width: 30px;
+  display: block;
+  margin: auto;
+}
+.button svg{
+  width: 17px;
+  margin-right: 5px;
+}
+.rtl{
+  direction: rtl;
 }
