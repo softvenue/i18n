@@ -22,7 +22,7 @@
   { "term": "ARRAY", "wAR": "مصفوفة", "wEN": "array" },
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
   { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
-  { "term": "ASYNCHRONOUS", "wAR": ["متزامن", "متواقت", "تزامني"], "wEN": "asynchronous " },
+  { "term": "ASYNCHRONOUS", "wAR": ["متزامن", "متواقت", "تزامني"], "wEN": "asynchronous" },
   {
     "term": "AUTHENTICATION",
     "wAR": "التثبت من الهوية",
@@ -182,7 +182,7 @@
   { "term": "STATE", "wAR": "الحالة", "wEN": "state" },
   { "term": "STATEMENT", "wAR": "بيان", "wEN": "statment" },
   { "term": "STATUS", "wAR": ["حالة", "وضع"], "wEN": "status" },
-  { "term": "STDIN", "wAR": ["المدخلات القياسية"], "wEN": "standard intput" },
+  { "term": "STDIN", "wAR": ["المدخلات القياسية"], "wEN": "standard input" },
   { "term": "STDOUT", "wAR": ["المخرجات القياسية"], "wEN": "standard output" },
   { "term": "STRICT_MODE", "wAR": "الوضع الصارم", "wEN": "strict mode" },
   { "term": "STRUCTURE", "wAR": ["بنية", "هيكلية"], "wEN": "structure" },
