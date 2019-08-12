@@ -9,6 +9,7 @@
   { "term": "ALERT", "wAR": "تنبيه", "wEN": "alert" },
   { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ALGORITHM", "wAR": "خوارزمية", "wEN": "algorithm" },
+  { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ANNOTATION", "wAR": "التوصيف", "wEN": "annontation" },
   {
     "term": "API",
@@ -21,22 +22,24 @@
   { "term": "ARRAY", "wAR": "مصفوفة", "wEN": "array" },
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
   { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
+  { "term": "ASYNCHRONOUS", "wAR": ["متزامن", "متواقت", "تزامني"], "wEN": "asynchronous " },
   {
     "term": "AUTHENTICATION",
     "wAR": "التثبت من الهوية",
     "wEN": "authentication"
   },
-  {
-    "term": "AUTHORIZATION",
-    "wAR": "ترخيص",
-    "wEN": "authorization"
-  },
+  { "term": "AUTHORIZATION", "wAR": "ترخيص", "wEN": "authorization" },
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
+  { 
+    "term": "BLOCKING_CALL", 
+    "wAR": ["استدعاء مؤجل", "استدعاء محجوب", "استدعاء غير متزامن"], 
+    "wEN": "blocking call" 
+  },
   { "term": "BRANCH", "wAR": ["شعبة", "فرع"], "wEN": "branch" },
   { "term": "BROWSER", "wAR": "متصفح", "wEN": "browser" },
   { "term": "BUG", "wAR": ["خطأ برمجي", "خطأ"], "wEN": "bug" },
-  { "term": "CALLBACK", "wAR": "استدعاء ثاني", "wEN": "callback" },
+  { "term": "CALLBACK", "wAR": ["استدعاء ثاني", "استدعاء لاحق"], "wEN": "callback" },
   {
     "term": "CDN",
     "wAR": "شبكة توزيع المحتوى",
@@ -44,6 +47,7 @@
   },
   { "term": "CLASS", "wAR": "مصنف", "wEN": "class" },
   { "term": "CLINET", "wAR": "عميل", "wEN": "client" },
+  { "term": "CLONE", "wAR": "استنساخ", "wEN": "clone" },
   { "term": "CODE", "wAR": "شيفرة", "wEN": "code" },
   { "term": "COMMIT", "wAR": "مساهمة", "wEN": "commit" },
   { "term": "COMPILER", "wAR": "مترجم", "wEN": "compiler" },
@@ -51,8 +55,14 @@
   { "term": "CONCATENATION", "wAR": ["دمج", "ربط"], "wEN": "concatenation" },
   { "term": "CONFIG", "wAR": ["إعداد", "تهيئة"], "wEN": "config" },
   { "term": "CONSTANT", "wAR": "ثابت", "wEN": "constant" },
+  { "term": "CONSTRUCT", "wAR": ["مكون أساسي", "مكون"], "wEN": "construct" },
   { "term": "CONSTRUCTOR", "wAR": ["مشيد", "باني"], "wEN": "constructor" },
   { "term": "CURRENT", "wAR": "حالي", "wEN": "current" },
+  { 
+    "term": "CWD", 
+    "wAR": "المسار الحالي", 
+    "wEN": ["cwd", "current working directory"]
+  },
   { "term": "DATA", "wAR": "بيانات", "wEN": "data" },
   { "term": "DEBUG", "wAR": "تنقيح", "wEN": "debug" },
   { "term": "DEBUGGING", "wAR": "عملية تنقيح الأخطاء", "wEN": "debugging" },
@@ -60,6 +70,7 @@
   { "term": "DECREMENT", "wAR": "إنقاص", "wEN": "decrement" },
   { "term": "DELIMITER", "wAR": "مُحدِد", "wEN": "delimiter" },
   { "term": "DEPENDENCY", "wAR": "اعتماد", "wEN": "dependency" },
+  { "term": "DETACH", "wAR": "فصل", "wEN": "detach" },
   {
     "term": "DEVELOPER_TOOLS",
     "wAR": "أدوات المطور",
@@ -67,18 +78,23 @@
   },
   { "term": "DEVELOPMENT", "wAR": "تطوير", "wEN": "development" },
   { "term": "DOCUMENTATION", "wAR": "توثيق", "wEN": "documentation" },
-  { "term": "DOM", "wAR": ["موديل كائن الوثيقة", "طراز كائن المستند"], "wEN": "document object model" },
+  {
+    "term": "DOM",
+    "wAR": ["طراز كائن المستند", "موديل كائن الوثيقة"],
+    "wEN": "document object model"
+  },
   { "term": "EMAIL", "wAR": "بريد إلكتروني", "wEN": "electronic mail" },
   { "term": "ENCAPSULATION", "wAR": "تغليف", "wEN": "encapsulation" },
   { "term": "ERROR", "wAR": "خطأ", "wEN": "error" },
   { "term": "EVENT", "wAR": "حدث", "wEN": "event" },
   { "term": "EVENT_LISTENER", "wAR": "مستمع للحدث", "wEN": "event listener" },
-  { "term": "EXPRESSION", "wAR": "تعبير", "wEN": "expression" },
   { "term": "EXCEPTION", "wAR": "إستثناء", "wEN": "exception" },
+  { "term": "EXPRESSION", "wAR": "تعبير", "wEN": "expression" },
   { "term": "EXTENSION", "wAR": "إضافة", "wEN": "extension" },
   { "term": "FALSE", "wAR": "خاطئ", "wEN": "false" },
   { "term": "FEEDBACK", "wAR": "تغذية راجعة", "wEN": "feedback" },
   { "term": "FETCH", "wAR": ["إحضار", "جلب"], "wEN": "fetch" },
+  { "term": "FORK", "wAR": "تفريع", "wEN": "fork" },
   { "term": "FRAMEWORK", "wAR": ["أداة", "إطار عمل"], "wEN": "framework" },
   { "term": "FUNCTION", "wAR": "دالة", "wEN": "function" },
   { "term": "GATHERING", "wAR": "تجميع", "wEN": "gathering" },
@@ -90,7 +106,7 @@
     "wEN": ["graphical user interface", "gui"]
   },
   { "term": "GUIDE", "wAR": "دليل", "wEN": "guide" },
-  { "term": "HASH", "wAR": ["رمز", "جزء"], "wEN": "hash" },
+  { "term": "HASH", "wAR": ["جزء", "رمز"], "wEN": "hash" },
   { "term": "HOOK", "wAR": "خطاف", "wEN": "hook" },
   { "term": "HOST", "wAR": "مضيف", "wEN": "host" },
   {
@@ -103,7 +119,11 @@
     "wAR": "بروتوكول نقل النص التشعبي الآمن",
     "wEN": "Hypertext Transfer Protocol Secure"
   },
-  { "term": "IDE", "wAR": "بيئة تطوير مدمجة", "wEN": "integrated development environment" },
+  {
+    "term": "IDE",
+    "wAR": "بيئة تطوير مدمجة",
+    "wEN": "integrated development environment"
+  },
   { "term": "IMPORT", "wAR": "إستيراد", "wEN": "import" },
   { "term": "INDEX", "wAR": "صفحة الرئيسية", "wEN": "index" },
   { "term": "INFORMATION", "wAR": "معلومات", "wEN": "information" },
@@ -118,7 +138,11 @@
   { "term": "LICENSE", "wAR": "رخصة", "wEN": "license" },
   { "term": "LIFECYLCE", "wAR": "دورة حياة", "wEN": "lifecycle" },
   { "term": "LOG", "wAR": "سجل", "wEN": "log" },
-  { "term": "LOOPS", "wAR": ["حلقات التكرار", "حلقات", "حلقات تكرارية"], "wEN": "loops" },
+  {
+    "term": "LOOPS",
+    "wAR": ["حلقات التكرار", "حلقات تكرارية", "حلقات"],
+    "wEN": "loops"
+  },
   { "term": "LOWERCASE", "wAR": "أحرف الصغيرة", "wEN": "lowercase" },
   {
     "term": "LTS",
@@ -153,14 +177,19 @@
   { "term": "SOFTWARE", "wAR": "برنامج", "wEN": "software" },
   { "term": "SORT", "wAR": "فرز", "wEN": "sort" },
   { "term": "SOURCE", "wAR": "مصدر", "wEN": "source" },
+  { "term": "SPAWN", "wAR": ["انتاج", "توليد"], "wEN": "spawn" },
   { "term": "STABLE", "wAR": "مستقر", "wEN": "stable" },
   { "term": "STATE", "wAR": "الحالة", "wEN": "state" },
   { "term": "STATEMENT", "wAR": "بيان", "wEN": "statment" },
   { "term": "STATUS", "wAR": ["حالة", "وضع"], "wEN": "status" },
+  { "term": "STDIN", "wAR": ["المدخلات القياسية"], "wEN": "standard intput" },
+  { "term": "STDOUT", "wAR": ["المخرجات القياسية"], "wEN": "standard output" },
   { "term": "STRICT_MODE", "wAR": "الوضع الصارم", "wEN": "strict mode" },
   { "term": "STRUCTURE", "wAR": ["بنية", "هيكلية"], "wEN": "structure" },
+  { "term": "SYNCHRONOUS", "wAR": ["غير متزامن", "غير متواقت"], "wEN": "synchronous" },
   { "term": "SYNTAX", "wAR": "صيغة", "wEN": "syntax" },
   { "term": "TAG", "wAR": "وسم", "wEN": "tag" },
+  { "term": "THREAD", "wAR": "خيط", "wEN": "thread" },
   { "term": "TUNNEL", "wAR": "قناة", "wEN": "tunnel" },
   { "term": "TYPE", "wAR": "نوع", "wEN": "type" },
   { "term": "UI", "wAR": "واجهة المستخدم", "wEN": ["ui", "user interface"] },
