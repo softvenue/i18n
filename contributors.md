@@ -1,5 +1,6 @@
 ---
 title: المساهمون في المشروع
+layout: default
 permalink: /contributors.html
 ---
 
@@ -19,8 +20,8 @@ permalink: /contributors.html
   </sub>
  </a>
  <br>
- <a href="https://github.com/all-contributors/all-contributors/commits?author={{ contributor.html_url }}" title="مساهمات">
- المساهمات {{ contributor.contributions }}
+ <a href="{{ site.github.repository_url }}/commits?author={{ contributor.login }}" title="مساهمات">
+ <span title="عدد المساهمات">&#8470; : {{ contributor.contributions }}</span>
  </a>
 </td>
 {% endfor %}
