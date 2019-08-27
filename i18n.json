@@ -186,7 +186,7 @@
   { "term": "STDOUT", "wAR": ["المخرجات القياسية"], "wEN": "standard output" },
   { "term": "STRICT_MODE", "wAR": "الوضع الصارم", "wEN": "strict mode" },
   { "term": "STRUCTURE", "wAR": ["بنية", "هيكلية"], "wEN": "structure" },
-  { "term": "SYNCHRONOUS", "wAR": ["غير متزامن", "غير متواقت"], "wEN": "synchronous" },
+  { "term": "SYNCHRONOUS", "wAR": ["متزامن", "متواقت"], "wEN": "synchronous" },
   { "term": "SYNTAX", "wAR": "صيغة", "wEN": "syntax" },
   { "term": "TAG", "wAR": "وسم", "wEN": "tag" },
   { "term": "THREAD", "wAR": "خيط", "wEN": "thread" },
