@@ -32,7 +32,7 @@
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
   { 
-    "term": "BLOCKING_CALL", 
+    "term": "BLOCKING", 
     "wAR": ["استدعاء مؤجل", "استدعاء محجوب", "استدعاء غير متزامن"], 
     "wEN": "blocking call" 
   },
