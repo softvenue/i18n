@@ -40,7 +40,7 @@
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
   {
-    "term": "BINT",
+    "term": "BIT",
     "wAR": ["البيت", "الوحدة الاساسية للبيانات"],
     "wEN": "bit"
   },
