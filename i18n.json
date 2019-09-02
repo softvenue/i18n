@@ -27,7 +27,7 @@
   { "term": "ARRAY", "wAR": "مصفوفة", "wEN": "array" },
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
   { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
-  { "term": "ATTACHMENT", "wAR": "المرفق", "wEN": "attachment" },
+  { "term": "ATTACHMENT", "wAR": "مرفق", "wEN": "attachment" },
   {
     "term": "AUTHENTICATION",
     "wAR": "التثبت من الهوية",
