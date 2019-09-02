@@ -54,7 +54,7 @@
   {
     "term": "BOOLEAN",
     "wAR": ["1/0", "المنطق البوليني", "تشغيل/ايقاف", "صح/خطأ", "نعم/لا"],
-    "wEN": "bookmark"
+    "wEN": "boolean"
   },
   { "term": "BOUNCE", "wAR": "إرتداد", "wEN": "bounce" },
   { "term": "BRANCH", "wAR": ["شعبة", "فرع"], "wEN": "branch" },
