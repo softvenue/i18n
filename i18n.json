@@ -50,7 +50,7 @@
     "wEN": "blended learning"
   },
   { "term": "BLOG", "wAR": "مدونة", "wEN": "blog" },
-  { "term": "BLUETOOTH", "wAR": "تقنية البلوتوث", "wEN": "bluetooth" },
+  { "term": "BLUETOOTH", "wAR": "بلوتوث", "wEN": "bluetooth" },
   {
     "term": "BOOLEAN",
     "wAR": ["1/0", "المنطق البوليني", "تشغيل/ايقاف", "صح/خطأ", "نعم/لا"],
