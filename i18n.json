@@ -33,7 +33,7 @@
     "wAR": "التثبت من الهوية",
     "wEN": "authentication"
   },
-  { "term": "AUTHENTICATION", "wAR": "المصادقة", "wEN": "authentication" },
+  { "term": "AUTHENTICATION", "wAR": "مصادقة", "wEN": "authentication" },
   { "term": "AUTHORIZATION", "wAR": "ترخيص", "wEN": "authorization" },
   { "term": "BACKBONE", "wAR": "اتصالات الشبكة الرئيسية", "wEN": "backbone" },
   { "term": "BANDWINDTH", "wAR": "عرض النطاق", "wEN": "bandwidth:" },
