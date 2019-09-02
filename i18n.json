@@ -11,7 +11,7 @@
   { "term": "ALGORITHM", "wAR": "خوارزمية", "wEN": "algorithm" },
   { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ANNOTATION", "wAR": "التوصيف", "wEN": "annontation" },
-  { "term": "ANONYMOUS", "wAR": "مجهول الهوية", "wEN": "anonymous" },
+  { "term": "ANONYMOUS", "wAR": "مجهول", "wEN": "anonymous" },
   {
     "term": "API",
     "wAR": "واجهة تطبيقات البرمجية",
