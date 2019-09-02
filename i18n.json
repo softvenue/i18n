@@ -33,8 +33,8 @@
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
   { 
     "term": "BLOCKING", 
-    "wAR": ["استدعاء مؤجل", "استدعاء محجوب", "استدعاء غير متزامن"], 
-    "wEN": "blocking call" 
+    "wAR": ["إنتظار الحدث", "استدعاء متزامن"], 
+    "wEN": "blocking" 
   },
   { "term": "BRANCH", "wAR": ["شعبة", "فرع"], "wEN": "branch" },
   { "term": "BROWSER", "wAR": "متصفح", "wEN": "browser" },
@@ -189,7 +189,7 @@
   { "term": "SYNCHRONOUS", "wAR": ["متزامن", "متواقت"], "wEN": "synchronous" },
   { "term": "SYNTAX", "wAR": "صيغة", "wEN": "syntax" },
   { "term": "TAG", "wAR": "وسم", "wEN": "tag" },
-  { "term": "THREAD", "wAR": "خيط", "wEN": "thread" },
+  { "term": "THREAD", "wAR": "برهة معالجة", "wEN": "thread" },
   { "term": "TUNNEL", "wAR": "قناة", "wEN": "tunnel" },
   { "term": "TYPE", "wAR": "نوع", "wEN": "type" },
   { "term": "UI", "wAR": "واجهة المستخدم", "wEN": ["ui", "user interface"] },
