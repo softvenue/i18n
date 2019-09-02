@@ -56,7 +56,7 @@
     "wAR": ["1/0", "المنطق البوليني", "تشغيل/ايقاف", "صواب/خطاء", "نعم/لا"],
     "wEN": "bookmark"
   },
-  { "term": "BOUNCE", "wAR": "ارتداد", "wEN": "bounce" },
+  { "term": "BOUNCE", "wAR": "إرتداد", "wEN": "bounce" },
   { "term": "BRANCH", "wAR": ["شعبة", "فرع"], "wEN": "branch" },
   { "term": "BROWSER", "wAR": "متصفح", "wEN": "browser" },
   { "term": "BUG", "wAR": ["خطأ برمجي", "خطأ"], "wEN": "bug" },
