@@ -69,7 +69,7 @@
   { "term": "CLASS", "wAR": "مصنف", "wEN": "class" },
   { "term": "CLINET", "wAR": "عميل", "wEN": "client" },
   { "term": "CODE", "wAR": "شيفرة", "wEN": "code" },
-  { "term": "COMMAND SET", "wAR": "مجموعة الاوامر", "wEN": "command set" },
+  { "term": "COMMEND_LINE", "wAR": "سطر أوامر", "wEN": "command line" },
   { "term": "COMMIT", "wAR": "مساهمة", "wEN": "commit" },
   { "term": "COMPILER", "wAR": "مترجم", "wEN": "compiler" },
   { "term": "COMPONENT", "wAR": "مكون", "wEN": "component" },
