@@ -4,12 +4,14 @@
     "wAR": "واجهة التطبيق الثنائية",
     "wEN": "Application Binary Interface"
   },
+  { "term": "ACCESS POINT", "wAR": "نقطة دخول", "wEN": "access point" },
   { "term": "ADDRESS", "wAR": "عنوان", "wEN": "address" },
   { "term": "AGGREGATION", "wAR": "تجميع", "wEN": "aggregation" },
   { "term": "ALERT", "wAR": "تنبيه", "wEN": "alert" },
   { "term": "ALGORITHM", "wAR": "خوارزمية", "wEN": "algorithm" },
   { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ANNOTATION", "wAR": "التوصيف", "wEN": "annontation" },
+  { "term": "ANONYMOUS", "wAR": "مجهول الهوية", "wEN": "anonymous" },
   {
     "term": "API",
     "wAR": "واجهة تطبيقات البرمجية",
@@ -25,14 +27,36 @@
   { "term": "ARRAY", "wAR": "مصفوفة", "wEN": "array" },
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
   { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
+  { "term": "ATTACHMENT", "wAR": "المرفق", "wEN": "attachment" },
   {
     "term": "AUTHENTICATION",
     "wAR": "التثبت من الهوية",
     "wEN": "authentication"
   },
+  { "term": "AUTHENTICATION", "wAR": "المصادقة", "wEN": "authentication" },
   { "term": "AUTHORIZATION", "wAR": "ترخيص", "wEN": "authorization" },
+  { "term": "BACKBONE", "wAR": "اتصالات الشبكة الرئيسية", "wEN": "backbone" },
+  { "term": "BANDWINDTH", "wAR": "عرض النطاق", "wEN": "bandwidth:" },
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
+  {
+    "term": "BINT",
+    "wAR": ["البيت", "الوحدة الاساسية للبيانات"],
+    "wEN": "bit"
+  },
+  {
+    "term": "BLENDED LEARNING",
+    "wAR": "التعلم المختلط",
+    "wEN": "blended learning"
+  },
+  { "term": "BLOG", "wAR": "مدونة ويب", "wEN": "blog" },
+  { "term": "BLUETOOTH", "wAR": "تقنية البلوتوث", "wEN": "bluetooth" },
+  {
+    "term": "BOOKMARK",
+    "wAR": ["1/0", "المنطق البوليني", "تشغيل/ايقاف", "صواب/خطاء", "نعم/لا"],
+    "wEN": "bookmark"
+  },
+  { "term": "BOUNCE", "wAR": "ارتداد", "wEN": "bounce" },
   { "term": "BRANCH", "wAR": ["شعبة", "فرع"], "wEN": "branch" },
   { "term": "BROWSER", "wAR": "متصفح", "wEN": "browser" },
   { "term": "BUG", "wAR": ["خطأ برمجي", "خطأ"], "wEN": "bug" },
@@ -45,6 +69,7 @@
   { "term": "CLASS", "wAR": "مصنف", "wEN": "class" },
   { "term": "CLINET", "wAR": "عميل", "wEN": "client" },
   { "term": "CODE", "wAR": "شيفرة", "wEN": "code" },
+  { "term": "COMMAND SET", "wAR": "مجموعة الاوامر", "wEN": "command set" },
   { "term": "COMMIT", "wAR": "مساهمة", "wEN": "commit" },
   { "term": "COMPILER", "wAR": "مترجم", "wEN": "compiler" },
   { "term": "COMPONENT", "wAR": "مكون", "wEN": "component" },
