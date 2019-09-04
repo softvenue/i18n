@@ -7,8 +7,8 @@
   { "term": "ADDRESS", "wAR": "عنوان", "wEN": "address" },
   { "term": "AGGREGATION", "wAR": "تجميع", "wEN": "aggregation" },
   { "term": "ALERT", "wAR": "تنبيه", "wEN": "alert" },
-  { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ALGORITHM", "wAR": "خوارزمية", "wEN": "algorithm" },
+  { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ANNOTATION", "wAR": "التوصيف", "wEN": "annontation" },
   {
@@ -18,11 +18,19 @@
   },
   { "term": "APPLICATION", "wAR": "تطبيق", "wEN": ["app", "application"] },
   { "term": "ARGUMENT", "wAR": "معطى", "wEN": "argument" },
-  { "term": "ARITHMETIC_OPERATOR", "wAR": "عامل حسابي", "wEN": "arithmetic operator" },
+  {
+    "term": "ARITHMETIC_OPERATOR",
+    "wAR": "عامل حسابي",
+    "wEN": "arithmetic operator"
+  },
   { "term": "ARRAY", "wAR": "مصفوفة", "wEN": "array" },
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
   { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
-  { "term": "ASYNCHRONOUS", "wAR": ["متزامن", "متواقت", "تزامني"], "wEN": "asynchronous" },
+  {
+    "term": "ASYNCHRONOUS",
+    "wAR": ["تزامني", "متزامن", "متواقت"],
+    "wEN": "asynchronous"
+  },
   {
     "term": "AUTHENTICATION",
     "wAR": "التثبت من الهوية",
@@ -31,15 +39,19 @@
   { "term": "AUTHORIZATION", "wAR": "ترخيص", "wEN": "authorization" },
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
-  { 
-    "term": "BLOCKING", 
-    "wAR": ["إنتظار الحدث", "استدعاء متزامن"], 
-    "wEN": "blocking" 
+  {
+    "term": "BLOCKING",
+    "wAR": ["إنتظار الحدث", "استدعاء متزامن"],
+    "wEN": "blocking"
   },
   { "term": "BRANCH", "wAR": ["شعبة", "فرع"], "wEN": "branch" },
   { "term": "BROWSER", "wAR": "متصفح", "wEN": "browser" },
   { "term": "BUG", "wAR": ["خطأ برمجي", "خطأ"], "wEN": "bug" },
-  { "term": "CALLBACK", "wAR": ["استدعاء ثاني", "استدعاء لاحق"], "wEN": "callback" },
+  {
+    "term": "CALLBACK",
+    "wAR": ["استدعاء ثاني", "استدعاء لاحق"],
+    "wEN": "callback"
+  },
   {
     "term": "CDN",
     "wAR": "شبكة توزيع المحتوى",
@@ -56,12 +68,12 @@
   { "term": "CONFIG", "wAR": ["إعداد", "تهيئة"], "wEN": "config" },
   { "term": "CONSTANT", "wAR": "ثابت", "wEN": "constant" },
   { "term": "CONSTRUCT", "wAR": ["مكون أساسي", "مكون"], "wEN": "construct" },
-  { "term": "CONSTRUCTOR", "wAR": ["مشيد", "باني"], "wEN": "constructor" },
+  { "term": "CONSTRUCTOR", "wAR": ["باني", "مشيد"], "wEN": "constructor" },
   { "term": "CURRENT", "wAR": "حالي", "wEN": "current" },
-  { 
-    "term": "CWD", 
-    "wAR": "المسار الحالي", 
-    "wEN": ["cwd", "current working directory"]
+  {
+    "term": "CWD",
+    "wAR": "المسار الحالي",
+    "wEN": ["current working directory", "cwd"]
   },
   { "term": "DATA", "wAR": "بيانات", "wEN": "data" },
   { "term": "DEBUG", "wAR": "تنقيح", "wEN": "debug" },
