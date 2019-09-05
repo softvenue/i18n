@@ -24,6 +24,10 @@
     wAR: "تخصيص"
     wEN: "allocate"
   - 
+    term: "ALLOCATE"
+    wAR: "تخصيص"
+    wEN: "allocate"
+  - 
     term: "ANNOTATION"
     wAR: "التوصيف"
     wEN: "annontation"
@@ -58,6 +62,13 @@
     wAR: "مُجمع"
     wEN: "assembly"
   - 
+    term: "ASYNCHRONOUS"
+    wAR: 
+      - "تزامني"
+      - "متزامن"
+      - "متواقت"
+    wEN: "asynchronous"
+  - 
     term: "AUTHENTICATION"
     wAR: "التثبت من الهوية"
     wEN: "authentication"
@@ -73,6 +84,12 @@
     term: "BIND"
     wAR: "ربط"
     wEN: "bind"
+  - 
+    term: "BLOCKING"
+    wAR: 
+      - "إنتظار الحدث"
+      - "استدعاء متزامن"
+    wEN: "blocking"
   - 
     term: "BRANCH"
     wAR: 
@@ -91,7 +108,9 @@
     wEN: "bug"
   - 
     term: "CALLBACK"
-    wAR: "استدعاء ثاني"
+    wAR: 
+      - "استدعاء ثاني"
+      - "استدعاء لاحق"
     wEN: "callback"
   - 
     term: "CDN"
@@ -107,6 +126,10 @@
     term: "CLINET"
     wAR: "عميل"
     wEN: "client"
+  - 
+    term: "CLONE"
+    wAR: "استنساخ"
+    wEN: "clone"
   - 
     term: "CODE"
     wAR: "شيفرة"
@@ -140,6 +163,12 @@
     wAR: "ثابت"
     wEN: "constant"
   - 
+    term: "CONSTRUCT"
+    wAR: 
+      - "مكون أساسي"
+      - "مكون"
+    wEN: "construct"
+  - 
     term: "CONSTRUCTOR"
     wAR: 
       - "باني"
@@ -149,6 +178,12 @@
     term: "CURRENT"
     wAR: "حالي"
     wEN: "current"
+  - 
+    term: "CWD"
+    wAR: "المسار الحالي"
+    wEN: 
+      - "current working directory"
+      - "cwd"
   - 
     term: "DATA"
     wAR: "بيانات"
@@ -179,6 +214,10 @@
     term: "DEPENDENCY"
     wAR: "اعتماد"
     wEN: "dependency"
+  - 
+    term: "DETACH"
+    wAR: "فصل"
+    wEN: "detach"
   - 
     term: "DEVELOPER_TOOLS"
     wAR: "أدوات المطور"
@@ -243,6 +282,10 @@
       - "إحضار"
       - "جلب"
     wEN: "fetch"
+  - 
+    term: "FORK"
+    wAR: "تفريع"
+    wEN: "fork"
   - 
     term: "FRAMEWORK"
     wAR: 
@@ -470,6 +513,12 @@
     wAR: "مصدر"
     wEN: "source"
   - 
+    term: "SPAWN"
+    wAR: 
+      - "انتاج"
+      - "توليد"
+    wEN: "spawn"
+  - 
     term: "STABLE"
     wAR: "مستقر"
     wEN: "stable"
@@ -488,6 +537,16 @@
       - "وضع"
     wEN: "status"
   - 
+    term: "STDIN"
+    wAR: 
+      - "المدخلات القياسية"
+    wEN: "standard input"
+  - 
+    term: "STDOUT"
+    wAR: 
+      - "المخرجات القياسية"
+    wEN: "standard output"
+  - 
     term: "STRICT_MODE"
     wAR: "الوضع الصارم"
     wEN: "strict mode"
@@ -498,6 +557,12 @@
       - "هيكلية"
     wEN: "structure"
   - 
+    term: "SYNCHRONOUS"
+    wAR: 
+      - "متزامن"
+      - "متواقت"
+    wEN: "synchronous"
+  - 
     term: "SYNTAX"
     wAR: "صيغة"
     wEN: "syntax"
@@ -505,6 +570,10 @@
     term: "TAG"
     wAR: "وسم"
     wEN: "tag"
+  - 
+    term: "THREAD"
+    wAR: "برهة معالجة"
+    wEN: "thread"
   - 
     term: "TUNNEL"
     wAR: "قناة"
