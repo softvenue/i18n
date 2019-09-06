@@ -4,6 +4,7 @@
     "wAR": "واجهة التطبيق الثنائية",
     "wEN": "Application Binary Interface"
   },
+  { "term": "ACCESS POINT", "wAR": "نقطة دخول", "wEN": "access point" },
   { "term": "ADDRESS", "wAR": "عنوان", "wEN": "address" },
   { "term": "AGGREGATION", "wAR": "تجميع", "wEN": "aggregation" },
   { "term": "ALERT", "wAR": "تنبيه", "wEN": "alert" },
@@ -11,6 +12,7 @@
   { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ALLOCATE", "wAR": "تخصيص", "wEN": "allocate" },
   { "term": "ANNOTATION", "wAR": "التوصيف", "wEN": "annontation" },
+  { "term": "ANONYMOUS", "wAR": "مجهول", "wEN": "anonymous" },
   {
     "term": "API",
     "wAR": "واجهة تطبيقات البرمجية",
@@ -26,6 +28,7 @@
   { "term": "ARRAY", "wAR": "مصفوفة", "wEN": "array" },
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
   { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
+  { "term": "ATTACHMENT", "wAR": "مرفق", "wEN": "attachment" },
   {
     "term": "ASYNCHRONOUS",
     "wAR": ["تزامني", "متزامن", "متواقت"],
@@ -36,10 +39,30 @@
     "wAR": "التثبت من الهوية",
     "wEN": "authentication"
   },
+  { "term": "AUTHENTICATION", "wAR": "مصادقة", "wEN": "authentication" },
   { "term": "AUTHORIZATION", "wAR": "ترخيص", "wEN": "authorization" },
+  { "term": "BACKBONE", "wAR": "اتصالات الشبكة الرئيسية", "wEN": "backbone" },
+  { "term": "BANDWINDTH", "wAR": "عرض النطاق", "wEN": "bandwidth:" },
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
   {
+    "term": "BIT",
+    "wAR": "بت",
+    "wEN": "bit"
+  },
+  {
+    "term": "BLENDED_LEARNING",
+    "wAR": "تعلم مختلط",
+    "wEN": "blended learning"
+  },
+  { "term": "BLOG", "wAR": "مدونة", "wEN": "blog" },
+  { "term": "BLUETOOTH", "wAR": "بلوتوث", "wEN": "bluetooth" },
+  {
+    "term": "BOOLEAN",
+    "wAR": ["1/0", "المنطق البوليني", "تشغيل/ايقاف", "صح/خطأ", "نعم/لا"],
+    "wEN": "boolean"
+  },
+  { "term": "BOUNCE", "wAR": "إرتداد", "wEN": "bounce" },
     "term": "BLOCKING",
     "wAR": ["إنتظار الحدث", "استدعاء متزامن"],
     "wEN": "blocking"
@@ -61,6 +84,7 @@
   { "term": "CLINET", "wAR": "عميل", "wEN": "client" },
   { "term": "CLONE", "wAR": "استنساخ", "wEN": "clone" },
   { "term": "CODE", "wAR": "شيفرة", "wEN": "code" },
+  { "term": "COMMEND_LINE", "wAR": "سطر أوامر", "wEN": "commend line" },
   { "term": "COMMIT", "wAR": "مساهمة", "wEN": "commit" },
   { "term": "COMPILER", "wAR": "مترجم", "wEN": "compiler" },
   { "term": "COMPONENT", "wAR": "مكون", "wEN": "component" },
