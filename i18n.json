@@ -63,6 +63,7 @@
     "wEN": "boolean"
   },
   { "term": "BOUNCE", "wAR": "إرتداد", "wEN": "bounce" },
+  {
     "term": "BLOCKING",
     "wAR": ["إنتظار الحدث", "استدعاء متزامن"],
     "wEN": "blocking"
