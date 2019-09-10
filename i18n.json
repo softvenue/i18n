@@ -28,12 +28,12 @@
   { "term": "ARRAY", "wAR": "مصفوفة", "wEN": "array" },
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
   { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
-  { "term": "ATTACHMENT", "wAR": "مرفق", "wEN": "attachment" },
   {
     "term": "ASYNCHRONOUS",
     "wAR": ["تزامني", "متزامن", "متواقت"],
     "wEN": "asynchronous"
   },
+  { "term": "ATTACHMENT", "wAR": "مرفق", "wEN": "attachment" },
   {
     "term": "AUTHENTICATION",
     "wAR": "التثبت من الهوية",
@@ -45,15 +45,16 @@
   { "term": "BANDWINDTH", "wAR": "عرض النطاق", "wEN": "bandwidth:" },
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
-  {
-    "term": "BIT",
-    "wAR": "بت",
-    "wEN": "bit"
-  },
+  { "term": "BIT", "wAR": "بت", "wEN": "bit" },
   {
     "term": "BLENDED_LEARNING",
     "wAR": "تعلم مختلط",
     "wEN": "blended learning"
+  },
+  {
+    "term": "BLOCKING",
+    "wAR": ["إنتظار الحدث", "استدعاء متزامن"],
+    "wEN": "blocking"
   },
   { "term": "BLOG", "wAR": "مدونة", "wEN": "blog" },
   { "term": "BLUETOOTH", "wAR": "بلوتوث", "wEN": "bluetooth" },
@@ -63,11 +64,6 @@
     "wEN": "boolean"
   },
   { "term": "BOUNCE", "wAR": "إرتداد", "wEN": "bounce" },
-  {
-    "term": "BLOCKING",
-    "wAR": ["إنتظار الحدث", "استدعاء متزامن"],
-    "wEN": "blocking"
-  },
   { "term": "BRANCH", "wAR": ["شعبة", "فرع"], "wEN": "branch" },
   { "term": "BROWSER", "wAR": "متصفح", "wEN": "browser" },
   { "term": "BUG", "wAR": ["خطأ برمجي", "خطأ"], "wEN": "bug" },
