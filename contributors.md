@@ -21,7 +21,7 @@ permalink: /contributors.html
  </a>
  <br>
  <a href="{{ site.github.repository_url }}/commits?author={{ contributor.login }}" title="مساهمات">
- <span title="عدد المساهمات">&#8470; : {{ contributor.contributions }}</span>
+ <span title="عدد المساهمات">عدد المساهمات : {{ contributor.contributions }}</span>
  </a>
 </td>
 {% endfor %}
