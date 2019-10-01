@@ -23,7 +23,17 @@
   - عدم ترجمة أسماء العَلَمْ
       
       مثال: 
+</div>
 <div dir="ltr">
-          JavaScript , Git , Google ...
+          JavaScript , Git , Microsoft , PHP ...
+</div>
+
 <div dir="rtl">
-إذا كنت تريد الإبلاغ عن مشكلة أو تقديم إقتراح فلا تتردد في <a href="https://github.com/InterstellarClub/i18n/issues/new"> طرحها</a>
+  
+  - .عدم استعمال "الـ" التعريف في المصطلحات العربية
+
+</div>
+<div dir="rtl">
+إذا كنت تريد الإبلاغ عن مشكلة أو تقديم إقتراح فلا تتردد في طرحها <a href="https://github.com/InterstellarClub/i18n/issues/new"> هنا</a>
+
+</div>
