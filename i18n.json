@@ -27,6 +27,11 @@
   },
   { "term": "ARRAY", "wAR": "مصفوفة", "wEN": "array" },
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
+  {
+    "term": "ARTIFICIAL INTELLIGENCE",
+    "wAR": "ذكاء إصطناعي",
+    "wEN": ["AI", "artificial intelligence"]
+  },
   { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
   {
     "term": "ASYNCHRONOUS",
@@ -101,6 +106,11 @@
   { "term": "DEBUGGING", "wAR": "عملية تنقيح الأخطاء", "wEN": "debugging" },
   { "term": "DECLARATION", "wAR": ["إعلان", "إنشاء"], "wEN": "declaration" },
   { "term": "DECREMENT", "wAR": "إنقاص", "wEN": "decrement" },
+  {
+    "term": "DEEP LEARNING",
+    "wAR": ["تعلم بعمق", "تعلم عميق"],
+    "wEN": "deep learning"
+  },
   { "term": "DELIMITER", "wAR": "مُحدِد", "wEN": "delimiter" },
   { "term": "DEPENDENCY", "wAR": "اعتماد", "wEN": "dependency" },
   { "term": "DETACH", "wAR": "فصل", "wEN": "detach" },
@@ -182,6 +192,11 @@
     "wAR": "دعم طويل الأمد",
     "wEN": ["long term support", "lts"]
   },
+  {
+    "term": "MACHINE LEARNING",
+    "wAR": ["تعلم آلي", "تعلم الالة"],
+    "wEN": "machine learning"
+  },
   { "term": "MAJOR", "wAR": ["جذري", "رئيسي"], "wEN": "major" },
   { "term": "MERGE", "wAR": "دمج", "wEN": "merge" },
   { "term": "MINOR", "wAR": ["ثانوي", "فرعي"], "wEN": "minor" },
@@ -195,6 +210,11 @@
   { "term": "PROGRAM", "wAR": "برمجية", "wEN": "program" },
   { "term": "PROTOCOL", "wAR": "بروتوكول", "wEN": "protocol" },
   { "term": "PROVIDE", "wAR": "يُزود‏", "wEN": "provide" },
+  {
+    "term": "REINFORCEMENT LEARNING",
+    "wAR": "تعلم معزز",
+    "wEN": "reinforcement learning"
+  },
   { "term": "RELEASE", "wAR": "إصدار", "wEN": "release" },
   { "term": "REMOTE", "wAR": "بعيد", "wEN": "remote" },
   { "term": "RENDERING", "wAR": "تصيير", "wEN": "rendering" },
