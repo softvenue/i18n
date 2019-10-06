@@ -73,6 +73,11 @@
   { "term": "BROWSER", "wAR": "متصفح", "wEN": "browser" },
   { "term": "BUG", "wAR": ["خطأ برمجي", "خطأ"], "wEN": "bug" },
   {
+    "term": "CACHE",
+    "wAR": ["ذاكرة مخبأة", "ذاكرة مخبئية"],
+    "wEN": "cache memory"
+  },
+  {
     "term": "CALLBACK",
     "wAR": ["استدعاء ثاني", "استدعاء لاحق"],
     "wEN": "callback"
@@ -95,6 +100,11 @@
   { "term": "CONSTANT", "wAR": "ثابت", "wEN": "constant" },
   { "term": "CONSTRUCT", "wAR": ["مكون أساسي", "مكون"], "wEN": "construct" },
   { "term": "CONSTRUCTOR", "wAR": ["باني", "مشيد"], "wEN": "constructor" },
+  {
+    "term": "CPU",
+    "wAR": ["معالج", "وحدة المعالجة المركزية"],
+    "wEN": ["cpu", "processor"]
+  },
   { "term": "CURRENT", "wAR": "حالي", "wEN": "current" },
   {
     "term": "CWD",
@@ -149,6 +159,8 @@
     "wEN": ["graphical user interface", "gui"]
   },
   { "term": "GUIDE", "wAR": "دليل", "wEN": "guide" },
+  { "term": "HARD DISK", "wAR": "قرص صلب", "wEN": ["Hard disk", "hard drive"] },
+  { "term": "HARDWARE", "wAR": "عتاد", "wEN": "hardware" },
   { "term": "HASH", "wAR": ["جزء", "رمز"], "wEN": "hash" },
   { "term": "HOOK", "wAR": "خطاف", "wEN": "hook" },
   { "term": "HOST", "wAR": "مضيف", "wEN": "host" },
@@ -211,6 +223,12 @@
   { "term": "PROTOCOL", "wAR": "بروتوكول", "wEN": "protocol" },
   { "term": "PROVIDE", "wAR": "يُزود‏", "wEN": "provide" },
   {
+    "term": "RAM",
+    "wAR": "ذاكرة الوصول العشوائي",
+    "wEN": ["ram", "random access memory"]
+  },
+  { "term": "RANDOM", "wAR": "عشوائي", "wEN": "random" },
+  {
     "term": "REINFORCEMENT LEARNING",
     "wAR": "تعلم معزز",
     "wEN": "reinforcement learning"
@@ -252,5 +270,6 @@
   { "term": "VARIABLE", "wAR": "متغير", "wEN": "variable" },
   { "term": "VERSION", "wAR": "إصدار", "wEN": "version" },
   { "term": "VULNERABILITY", "wAR": "ثغرة", "wEN": "vulnerability" },
-  { "term": "WEB", "wAR": ["شبكة عنكبوتية", "ويب"], "wEN": "web" }
+  { "term": "WEB", "wAR": ["شبكة عنكبوتية", "ويب"], "wEN": "web" },
+  { "term": "format", "wAR": "صيغة", "wEN": "format" }
 ]
