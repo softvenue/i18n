@@ -103,7 +103,7 @@
   {
     "term": "CPU",
     "wAR": ["معالج", "وحدة المعالجة المركزية"],
-    "wEN": ["cpu", "processor"]
+    "wEN": ["cpu", "central processing unit"]
   },
   { "term": "CURRENT", "wAR": "حالي", "wEN": "current" },
   {
