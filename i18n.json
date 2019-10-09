@@ -159,7 +159,7 @@
     "wEN": ["graphical user interface", "gui"]
   },
   { "term": "GUIDE", "wAR": "دليل", "wEN": "guide" },
-  { "term": "HARD DISK", "wAR": "قرص صلب", "wEN": ["Hard disk", "hard drive"] },
+  { "term": "HARD_DISK", "wAR": "قرص صلب", "wEN": ["Hard disk", "hard drive"] },
   { "term": "HARDWARE", "wAR": "عتاد", "wEN": "hardware" },
   { "term": "HASH", "wAR": ["جزء", "رمز"], "wEN": "hash" },
   { "term": "HOOK", "wAR": "خطاف", "wEN": "hook" },
