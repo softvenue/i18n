@@ -229,7 +229,7 @@
   },
   { "term": "RANDOM", "wAR": "عشوائي", "wEN": "random" },
   {
-    "term": "REINFORCEMENT LEARNING",
+    "term": "REINFORCEMENT_LEARNING",
     "wAR": "تعلم معزز",
     "wEN": "reinforcement learning"
   },
