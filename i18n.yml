@@ -66,6 +66,12 @@
     wAR: "دالة سهمية"
     wEN: "arrow function"
   - 
+    term: "ARTIFICIAL INTELLIGENCE"
+    wAR: "ذكاء إصطناعي"
+    wEN: 
+      - "AI"
+      - "artificial intelligence"
+  - 
     term: "ASSEMBLER"
     wAR: "مُجمع"
     wEN: "assembly"
@@ -160,6 +166,12 @@
       - "خطأ"
     wEN: "bug"
   - 
+    term: "CACHE"
+    wAR: 
+      - "ذاكرة مخبأة"
+      - "ذاكرة مخبئية"
+    wEN: "cache memory"
+  - 
     term: "CALLBACK"
     wAR: 
       - "استدعاء ثاني"
@@ -232,6 +244,14 @@
       - "مشيد"
     wEN: "constructor"
   - 
+    term: "CPU"
+    wAR: 
+      - "معالج"
+      - "وحدة المعالجة المركزية"
+    wEN: 
+      - "central processing unit"
+      - "cpu"
+  - 
     term: "CURRENT"
     wAR: "حالي"
     wEN: "current"
@@ -263,6 +283,12 @@
     term: "DECREMENT"
     wAR: "إنقاص"
     wEN: "decrement"
+  - 
+    term: "DEEP LEARNING"
+    wAR: 
+      - "تعلم بعمق"
+      - "تعلم عميق"
+    wEN: "deep learning"
   - 
     term: "DELIMITER"
     wAR: "مُحدِد"
@@ -376,6 +402,16 @@
     wAR: "دليل"
     wEN: "guide"
   - 
+    term: "HARDWARE"
+    wAR: "عتاد"
+    wEN: "hardware"
+  - 
+    term: "HARD_DISK"
+    wAR: "قرص صلب"
+    wEN: 
+      - "Hard disk"
+      - "hard drive"
+  - 
     term: "HASH"
     wAR: 
       - "جزء"
@@ -461,6 +497,12 @@
       - "long term support"
       - "lts"
   - 
+    term: "MACHINE LEARNING"
+    wAR: 
+      - "تعلم آلي"
+      - "تعلم الالة"
+    wEN: "machine learning"
+  - 
     term: "MAJOR"
     wAR: 
       - "جذري"
@@ -520,6 +562,20 @@
     term: "PROVIDE"
     wAR: "يُزود‏"
     wEN: "provide"
+  - 
+    term: "RAM"
+    wAR: "ذاكرة الوصول العشوائي"
+    wEN: 
+      - "ram"
+      - "random access memory"
+  - 
+    term: "RANDOM"
+    wAR: "عشوائي"
+    wEN: "random"
+  - 
+    term: "REINFORCEMENT_LEARNING"
+    wAR: "تعلم معزز"
+    wEN: "reinforcement learning"
   - 
     term: "RELEASE"
     wAR: "إصدار"
@@ -679,4 +735,8 @@
       - "شبكة عنكبوتية"
       - "ويب"
     wEN: "web"
+  - 
+    term: "format"
+    wAR: "صيغة"
+    wEN: "format"
 
