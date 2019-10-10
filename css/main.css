@@ -9,11 +9,11 @@ html {
 body{
   font-family: droid, sans-serif;
 }
-.container {
+/* .container {
   max-width: 750px;
   margin: 0 auto;
   text-align: center;
-}
+} */
 .title{
   font-weight: 200;
 }
@@ -133,4 +133,24 @@ body{
 }
 .rtl{
   direction: rtl;
+}
+
+/* contri.. */
+#contributors{
+	margin-top: 50px;
+}
+#contributors > h1{
+	text-align: center;
+}
+#contributors .card{
+	margin: 20px auto;
+	max-width: 220px;
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.18); 
+}
+.card .card-title,.card .card-text{
+	text-align: center;
+}
+.card .card-title{
+	font-weight: 600;
+	font-size: 18px;
 }
