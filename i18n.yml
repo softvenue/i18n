@@ -103,6 +103,14 @@
     wAR: "اتصالات الشبكة الرئيسية"
     wEN: "backbone"
   - 
+    term: "BACKGROUND"
+    wAR: "خلفية"
+    wEN: "background"
+  - 
+    term: "BACKUP"
+    wAR: "نسخة إحتياطية"
+    wEN: "backup"
+  - 
     term: "BANDWINDTH"
     wAR: "عرض النطاق"
     wEN: "bandwidth:"
@@ -165,6 +173,10 @@
       - "خطأ برمجي"
       - "خطأ"
     wEN: "bug"
+  - 
+    term: "BUILD"
+    wAR: "بناء"
+    wEN: "build"
   - 
     term: "CACHE"
     wAR: 
@@ -266,6 +278,12 @@
     wAR: "بيانات"
     wEN: "data"
   - 
+    term: "DATABASE"
+    wAR: "قاعدة بيانات"
+    wEN: 
+      - "data base"
+      - "db"
+  - 
     term: "DEBUG"
     wAR: "تنقيح"
     wEN: "debug"
@@ -320,6 +338,10 @@
       - "موديل كائن الوثيقة"
     wEN: "document object model"
   - 
+    term: "Device"
+    wAR: "جهاز"
+    wEN: "device"
+  - 
     term: "EMAIL"
     wAR: "بريد إلكتروني"
     wEN: "electronic mail"
@@ -369,6 +391,10 @@
     term: "FORK"
     wAR: "تفريع"
     wEN: "fork"
+  - 
+    term: "FORMAT"
+    wAR: "صيغة"
+    wEN: "format"
   - 
     term: "FRAMEWORK"
     wAR: 
@@ -476,6 +502,10 @@
     wAR: "دورة حياة"
     wEN: "lifecycle"
   - 
+    term: "LOCK"
+    wAR: "قفل"
+    wEN: "lock"
+  - 
     term: "LOG"
     wAR: "سجل"
     wEN: "log"
@@ -519,13 +549,39 @@
       - "فرعي"
     wEN: "minor"
   - 
+    term: "MODEL"
+    wAR: "نموذج"
+    wEN: "model"
+  - 
     term: "MODULE"
     wAR: "وحدة"
     wEN: "module"
   - 
+    term: "NETWORK"
+    wAR: "شبكة"
+    wEN: "network"
+  - 
+    term: "NFC"
+    wAR: "تواصل قريب المدى"
+    wEN: 
+      - "NFC"
+      - "near field communication"
+  - 
+    term: "NOTIFICATION"
+    wAR: "إشعار"
+    wEN: "notification"
+  - 
     term: "OBJECT"
     wAR: "كائن"
     wEN: "object"
+  - 
+    term: "OPTION"
+    wAR: "خيار"
+    wEN: "option"
+  - 
+    term: "OS"
+    wAR: "نظام تشغيل"
+    wEN: "operating system"
   - 
     term: "OUTPUT"
     wAR: 
@@ -542,6 +598,10 @@
       - "تصحيح"
       - "رُقعة"
     wEN: "patch"
+  - 
+    term: "PERMISSION"
+    wAR: "إذن"
+    wEN: "permission"
   - 
     term: "PORT"
     wAR: "منفذ"
@@ -573,6 +633,10 @@
     wAR: "عشوائي"
     wEN: "random"
   - 
+    term: "REFRESH"
+    wAR: "تحديث"
+    wEN: "refersh"
+  - 
     term: "REINFORCEMENT_LEARNING"
     wAR: "تعلم معزز"
     wEN: "reinforcement learning"
@@ -589,10 +653,15 @@
     wAR: "تصيير"
     wEN: "rendering"
   - 
+    term: "REPORT"
+    wAR: 
+      - "تبليغ"
+      - "تقرير"
+    wEN: "report"
+  - 
     term: "REPOSITORY"
     wAR: "مستودع"
-    wEN: 
-      - "repository"
+    wEN: "repository"
   - 
     term: "RUNTIME"
     wAR: 
@@ -660,8 +729,16 @@
       - "المخرجات القياسية"
     wEN: "standard output"
   - 
+    term: "STORAGE"
+    wAR: "ذاكرة"
+    wEN: "storage"
+  - 
     term: "STRICT_MODE"
     wAR: "الوضع الصارم"
+    wEN: "strict mode"
+  - 
+    term: "STRICT_MODE"
+    wAR: "نمط صارم"
     wEN: "strict mode"
   - 
     term: "STRUCTURE"
@@ -687,6 +764,10 @@
     term: "THREAD"
     wAR: "برهة معالجة"
     wEN: "thread"
+  - 
+    term: "TRAINING"
+    wAR: "تدريب"
+    wEN: "traning"
   - 
     term: "TUNNEL"
     wAR: "قناة"
@@ -736,7 +817,21 @@
       - "ويب"
     wEN: "web"
   - 
-    term: "format"
-    wAR: "صيغة"
-    wEN: "format"
+    term: "WINDOW"
+    wAR: "نافذة"
+    wEN: "window"
+  - 
+    term: "login"
+    wAR: "تسجيل دخول"
+    wEN: 
+      - "login"
+      - "sign in"
+  - 
+    term: "logout"
+    wAR: "تسجيل خروج"
+    wEN: "logout"
+  - 
+    term: "sign_up"
+    wAR: "تسجيل"
+    wEN: "sign up"
 
