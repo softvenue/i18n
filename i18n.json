@@ -277,7 +277,7 @@
   { "term": "DATABASE", "wAR": "قاعدة بيانات", "wEN": ["data base", "db"] },
   { "term": "OPTION", "wAR": "خيار", "wEN": "option" },
   { "term": "TRAINING", "wAR": "تدريب", "wEN": "traning" },
-  { "term": "MODEL", "wAR": ["نموذج", "قالب"], "wEN": "model" },
+  { "term": "MODEL", "wAR": "نموذج", "wEN": "model" },
   { "term": "login", "wAR": "تسجيل دخول", "wEN": ["login","sign in"] },
   { "term": "sign_up", "wAR": "تسجيل", "wEN": "sign up" },
   { "term": "logout", "wAR": "تسجيل خروج", "wEN": "logout" },
@@ -292,6 +292,6 @@
   { "term": "BACKGROUND", "wAR": "خلفية", "wEN": "background" },
   { "term": "OS", "wAR": "نظام تشغيل", "wEN": "operating system" },
   { "term": "NOTIFICATION", "wAR": "إشعار", "wEN": "notification" },
-  { "term": "NFC", "wAR": "التواصل قريب المدى", "wEN": ["NFC","near field communication"] },
+  { "term": "NFC", "wAR": "تواصل قريب المدى", "wEN": ["NFC","near field communication"] },
   { "term": "NETWORK", "wAR": "شبكة", "wEN": "network" }
 ]
