@@ -14,9 +14,9 @@
         <h1>Contributors to this project</h1>
         <br>
         <div class="row">
-            <div class="col-sm-6 col-md-4 col-lg-3">
+            <!-- <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                <img src="1.jpg" class="card-img-top" alt="...">
+                <img src="1.jpg" class="card-img-top">
                 <div class="card-body">
                     <h5 class="card-title">Mohamed Naas</h5>
                     <p class="card-text">
@@ -27,7 +27,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                <img src="1.jpg" class="card-img-top" alt="...">
+                <img src="1.jpg" class="card-img-top">
                 <div class="card-body">
                     <h5 class="card-title">Mohamed Naas</h5>
                     <p class="card-text">
@@ -38,7 +38,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img src="1.jpg" class="card-img-top" alt="...">
+                    <img src="1.jpg" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Mohamed Naas</h5>
                         <p class="card-text">
@@ -49,7 +49,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img src="1.jpg" class="card-img-top" alt="...">
+                    <img src="1.jpg" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Mohamed Naas</h5>
                         <p class="card-text">
@@ -60,7 +60,7 @@
             </div>
             <div class="col-sm-6 col-md-4 col-lg-3">
                 <div class="card">
-                    <img src="1.jpg" class="card-img-top" alt="...">
+                    <img src="1.jpg" class="card-img-top">
                     <div class="card-body">
                         <h5 class="card-title">Mohamed Naas</h5>
                         <p class="card-text">
@@ -68,25 +68,37 @@
                         </p>
                     </div>
                 </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 col-md-4 col-lg-3">
-
-                
-            <div class="card">
-                <img src="1.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Mohamed Naas</h5>
-                    <p class="card-text">
-                        Commits: <span>15</span>
-                    </p>
-                </div>
-            </div>
-            </div>
+            </div> -->
         </div>
     </div>
-    
-    
+
+    </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+    async function getRepos() {
+        const url = "https://api.github.com/repos/softvenue/i18n/stats/contributors"
+        divResult = document.getElementById("d");
+        const response = await fetch(url)
+        const result = await response.json()
+        for (i=result.length-1;i>0;i--) {
+            console.log(result[i].total);
+            card = `
+            <div class="col-sm-6 col-md-4 col-lg-3">
+                <div class="card">
+                    <img src="` + result[i].author.avatar_url +` " class="card-img-top">
+                    <div class="card-body">
+                        <h5 class="card-title">` + result[i].author.login +`</h5>
+                        <p class="card-text">
+                            Commits: <span>` + result[i].total +`</span>
+                        </p>
+                    </div>
+                </div>
+            </div>` ;
+        $("#contributors .row").append(card);
+        }
+        
+    }
+    getRepos();
+</script>
 </body>
 </html>
