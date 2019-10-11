@@ -2,42 +2,29 @@
   font-family: droid;
   src: url(../fonts/droid.ttf);
 }
+
 html {
   font: normal normal normal 18px/1.2 droid, "Segoe UI", "Helvetica Neue", Roboto, Calibri, sans-serif;
   color: #292f33;
 }
-body{
+
+body {
   font-family: droid, sans-serif;
 }
-/* .container {
-  max-width: 750px;
-  margin: 0 auto;
-  text-align: center;
-} */
-.title{
+
+.title {
   font-weight: 200;
 }
 
 .tt-query,
 .tt-hint {
   display: none;
-  /*
-  height: 30px;
-  padding: 8px 12px;
-  font-size: 24px;
-  line-height: 30px;
-  border: 2px solid #ccc;
-  -webkit-border-radius: 8px;
-     -moz-border-radius: 8px;
-          border-radius: 8px;
-  outline: none;
-  */
-} 
+}
 
 .typeahead {
   background-color: #fff;
   width: 100%;
-  font-family:  droid, "Segoe UI", "Helvetica Neue", sans-serif;
+  font-family: droid, "Segoe UI", "Helvetica Neue", sans-serif;
 }
 
 .typeahead:focus {
@@ -46,16 +33,18 @@ body{
 
 .tt-query {
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
-     -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
-          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
 }
 
 .tt-hint {
   color: #999
 }
-.twitter-typeahead{
+
+.twitter-typeahead {
   width: 100%;
 }
+
 .tt-menu {
   width: 100%;
   margin: 12px 0;
@@ -64,11 +53,11 @@ body{
   border: 1px solid #ccc;
   border: 1px solid rgba(0, 0, 0, 0.2);
   -webkit-border-radius: 8px;
-     -moz-border-radius: 8px;
-          border-radius: 8px;
-  -webkit-box-shadow: 0 5px 10px rgba(0,0,0,.2);
-     -moz-box-shadow: 0 5px 10px rgba(0,0,0,.2);
-          box-shadow: 0 5px 10px rgba(0,0,0,.2);
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
   text-align: center;
 }
 
@@ -93,18 +82,20 @@ body{
 .tt-suggestion p {
   margin: 0;
 }
-.ar{
+
+.ar {
   border-bottom: 1px solid #ededed;
   padding-bottom: 4px;
   margin-bottom: 5px;
   color: #bbb;
 }
+
 #scrollable-dropdown-menu .tt-menu {
   max-height: 150px;
   overflow-y: auto;
 }
 
-::-webkit-input-placeholder { 
+::-webkit-input-placeholder {
   text-align: center;
 }
 
@@ -115,43 +106,51 @@ body{
 ::placeholder {
   text-align: center;
 }
-.is-used-by-icon{
+
+.is-used-by-icon {
   display: inline-block;
   position: relative;
   width: auto;
   text-align: center;
   font-size: 12px;
 }
-.is-used-by-icon svg{
+
+.is-used-by-icon svg {
   width: 30px;
   display: block;
   margin: auto;
 }
-.button svg{
+
+.button svg {
   width: 17px;
   margin-right: 5px;
 }
-.rtl{
+
+.rtl {
   direction: rtl;
 }
 
-/* contri.. */
-#contributors{
-	margin-top: 50px;
+#contributors {
+  margin-top: 50px;
 }
-#contributors > h1{
-	text-align: center;
+
+#contributors>h1 {
+  text-align: center;
 }
-#contributors .card{
-	margin: 20px auto;
-	max-width: 220px;
-	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.18); 
+
+#contributors .card {
+  margin: 20px auto;
+  max-width: 220px;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.18);
 }
-.card .card-title,.card .card-text{
-	text-align: center;
+
+.card .card-title,
+.card .card-text {
+  text-align: center;
 }
-.card .card-title{
-	font-weight: 600;
+
+.card .card-title {
+  font-weight: 600;
   font-size: 18px;
   white-space: nowrap;
   overflow: hidden;
