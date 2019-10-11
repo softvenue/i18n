@@ -14,8 +14,9 @@ permalink: /contributors.html
   <h1>Contributors to this project</h1>
   <br>
   <div class="row">
-    <div class="col-sm-6 col-md-4 col-lg-3"></div>
+
     {% for contributor in site.github.contributors %}
+    <div class="col-sm-6 col-md-4 col-lg-3"></div>
     <div class="col-sm-6 col-md-4 col-lg-3">
       <div class="card">
         <img src="{{ contributor.avatar_url }}" class="card-img-top">
@@ -29,8 +30,8 @@ permalink: /contributors.html
         </div>
       </div>
     </div>
-    {% endfor %}
   </div>
+  {% endfor %}
 </div>
 </div>
 
