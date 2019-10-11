@@ -7,11 +7,11 @@ permalink: /contributors.html
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-يمكن أن تكون من أحد المساهمون في المشروع بمجرد <a href="{{ site.github.repository_url }}" title="Pull request">فتح طلب
-  تغيير</a> لإضافة كلمة إلى القاموس
+
 <br>
 <div class="container" id="contributors">
-  <h1>Contributors to this project</h1>
+  <h1>يمكن أن تكون من أحد المساهمون في المشروع بمجرد <a href="{{ site.github.repository_url }}" title="Pull request">فتح طلب
+  تغيير</a> لإضافة كلمة إلى القاموس</h1>
   <br>
   <div class="row">
     {% for contributor in site.github.contributors %}
