@@ -156,3 +156,10 @@ body {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+.card a:hover {
+  text-decoration: none;
+  font-weight: bold;
+}
+.card a {
+  color: #000;
+}
