@@ -136,7 +136,6 @@
   { "term": "DEVELOPMENT", "wAR": "تطوير", "wEN": "development" },
   { "term": "DOCUMENTATION", "wAR": "توثيق", "wEN": "documentation" },
   {
-    "term": "DOM",
     "wEN": "document object model"
   },
   { "term": "Device", "wAR": "جهاز", "wEN": "device" },
