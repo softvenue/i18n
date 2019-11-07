@@ -137,7 +137,6 @@
   { "term": "DOCUMENTATION", "wAR": "توثيق", "wEN": "documentation" },
   {
     "term": "DOM",
-    "wAR": ["طراز كائن المستند"],
     "wEN": "document object model"
   },
   { "term": "Device", "wAR": "جهاز", "wEN": "device" },
