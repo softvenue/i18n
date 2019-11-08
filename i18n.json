@@ -29,7 +29,7 @@
   { "term": "ARROW_FUNCTION", "wAR": "دالة سهمية", "wEN": "arrow function" },
   {
     "term": "ARTIFICIAL INTELLIGENCE",
-    "wAR": "ذكاء إصطناعي",
+    "wAR": "ذكاء صناعي",
     "wEN": ["AI", "artificial intelligence"]
   },
   { "term": "ASSEMBLER", "wAR": "مُجمع", "wEN": "assembly" },
@@ -46,9 +46,9 @@
   },
   { "term": "AUTHENTICATION", "wAR": "مصادقة", "wEN": "authentication" },
   { "term": "AUTHORIZATION", "wAR": "ترخيص", "wEN": "authorization" },
-  { "term": "BACKBONE", "wAR": "اتصالات الشبكة الرئيسية", "wEN": "backbone" },
+  { "term": "BACKBONE", "wAR": "اتصالات الشبكة الرئيسة", "wEN": "backbone" },
   { "term": "BACKGROUND", "wAR": "خلفية", "wEN": "background" },
-  { "term": "BACKUP", "wAR": "نسخة إحتياطية", "wEN": "backup" },
+  { "term": "BACKUP", "wAR": "نسخة احتياطية", "wEN": "backup" },
   { "term": "BANDWINDTH", "wAR": "عرض النطاق", "wEN": "bandwidth:" },
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
@@ -60,24 +60,24 @@
   },
   {
     "term": "BLOCKING",
-    "wAR": ["إنتظار الحدث", "استدعاء متزامن"],
+    "wAR": ["انتظار الحدث", "استدعاء متزامن"],
     "wEN": "blocking"
   },
   { "term": "BLOG", "wAR": "مدونة", "wEN": "blog" },
   { "term": "BLUETOOTH", "wAR": "بلوتوث", "wEN": "bluetooth" },
   {
     "term": "BOOLEAN",
-    "wAR": ["1/0", "المنطق البوليني", "تشغيل/ايقاف", "صح/خطأ", "نعم/لا"],
+    "wAR": ["1/0", "المنطق البوليني", "تشغيل/ايقاف", "صحيح/خطأ", "نعم/لا"],
     "wEN": "boolean"
   },
-  { "term": "BOUNCE", "wAR": "إرتداد", "wEN": "bounce" },
+  { "term": "BOUNCE", "wAR": "ارتداد", "wEN": "bounce" },
   { "term": "BRANCH", "wAR": ["شعبة", "فرع"], "wEN": "branch" },
   { "term": "BROWSER", "wAR": "متصفح", "wEN": "browser" },
   { "term": "BUG", "wAR": ["خطأ برمجي", "خطأ"], "wEN": "bug" },
   { "term": "BUILD", "wAR": "بناء", "wEN": "build" },
   {
     "term": "CACHE",
-    "wAR": ["ذاكرة مخبأة", "ذاكرة مخبئية"],
+    "wAR": ["ذاكرة مخبأة"],
     "wEN": "cache memory"
   },
   {
@@ -93,7 +93,7 @@
   { "term": "CLASS", "wAR": "مصنف", "wEN": "class" },
   { "term": "CLINET", "wAR": "عميل", "wEN": "client" },
   { "term": "CLONE", "wAR": "استنساخ", "wEN": "clone" },
-  { "term": "CODE", "wAR": "شيفرة", "wEN": "code" },
+  { "term": "CODE", "wAR": "شفرة", "wEN": "code" },
   { "term": "COMMEND_LINE", "wAR": "سطر أوامر", "wEN": "commend line" },
   { "term": "COMMIT", "wAR": "مساهمة", "wEN": "commit" },
   { "term": "COMPILER", "wAR": "مترجم", "wEN": "compiler" },
@@ -101,7 +101,7 @@
   { "term": "CONCATENATION", "wAR": ["دمج", "ربط"], "wEN": "concatenation" },
   { "term": "CONFIG", "wAR": ["إعداد", "تهيئة"], "wEN": "config" },
   { "term": "CONSTANT", "wAR": "ثابت", "wEN": "constant" },
-  { "term": "CONSTRUCT", "wAR": ["مكون أساسي", "مكون"], "wEN": "construct" },
+  { "term": "CONSTRUCT", "wAR": ["مكون أساس", "مكون"], "wEN": "construct" },
   { "term": "CONSTRUCTOR", "wAR": ["باني", "مشيد"], "wEN": "constructor" },
   {
     "term": "CPU",
@@ -122,7 +122,7 @@
   { "term": "DECREMENT", "wAR": "إنقاص", "wEN": "decrement" },
   {
     "term": "DEEP LEARNING",
-    "wAR": ["تعلم بعمق", "تعلم عميق"],
+    "wAR": ["تعلم عميق"],
     "wEN": "deep learning"
   },
   { "term": "DELIMITER", "wAR": "مُحدِد", "wEN": "delimiter" },
@@ -136,8 +136,6 @@
   { "term": "DEVELOPMENT", "wAR": "تطوير", "wEN": "development" },
   { "term": "DOCUMENTATION", "wAR": "توثيق", "wEN": "documentation" },
   {
-    "term": "DOM",
-    "wAR": ["طراز كائن المستند", "موديل كائن الوثيقة"],
     "wEN": "document object model"
   },
   { "term": "Device", "wAR": "جهاز", "wEN": "device" },
@@ -146,7 +144,7 @@
   { "term": "ERROR", "wAR": "خطأ", "wEN": "error" },
   { "term": "EVENT", "wAR": "حدث", "wEN": "event" },
   { "term": "EVENT_LISTENER", "wAR": "مستمع للحدث", "wEN": "event listener" },
-  { "term": "EXCEPTION", "wAR": "إستثناء", "wEN": "exception" },
+  { "term": "EXCEPTION", "wAR": "استثناء", "wEN": "exception" },
   { "term": "EXPRESSION", "wAR": "تعبير", "wEN": "expression" },
   { "term": "EXTENSION", "wAR": "إضافة", "wEN": "extension" },
   { "term": "FALSE", "wAR": "خاطئ", "wEN": "false" },
@@ -186,7 +184,7 @@
     "wEN": "integrated development environment"
   },
   { "term": "IMPORT", "wAR": "إستيراد", "wEN": "import" },
-  { "term": "INDEX", "wAR": "صفحة الرئيسية", "wEN": "index" },
+  { "term": "INDEX", "wAR": "صفحة الرئيسة", "wEN": "index" },
   { "term": "INFORMATION", "wAR": "معلومات", "wEN": "information" },
   { "term": "INPUT", "wAR": ["مدخل", "معطى"], "wEN": "input" },
   { "term": "INSPECT", "wAR": "تدقيق", "wEN": "inspect" },
@@ -205,7 +203,7 @@
     "wAR": ["حلقات التكرار", "حلقات تكرارية", "حلقات"],
     "wEN": "loops"
   },
-  { "term": "LOWERCASE", "wAR": "أحرف الصغيرة", "wEN": "lowercase" },
+  { "term": "LOWERCASE", "wAR": "أحرف صغيرة", "wEN": "lowercase" },
   {
     "term": "LTS",
     "wAR": "دعم طويل الأمد",
@@ -213,10 +211,10 @@
   },
   {
     "term": "MACHINE LEARNING",
-    "wAR": ["تعلم آلي", "تعلم الالة"],
+    "wAR": ["تعلم آلي", "تعلم الآلة"],
     "wEN": "machine learning"
   },
-  { "term": "MAJOR", "wAR": ["جذري", "رئيسي"], "wEN": "major" },
+  { "term": "MAJOR", "wAR": ["جذري", "رئيس"], "wEN": "major" },
   { "term": "MERGE", "wAR": "دمج", "wEN": "merge" },
   { "term": "MINOR", "wAR": ["ثانوي", "فرعي"], "wEN": "minor" },
   { "term": "MODEL", "wAR": "نموذج", "wEN": "model" },
@@ -262,13 +260,13 @@
     "wAR": ["وقت التشغيل", "وقت التنفيذ"],
     "wEN": "runtime"
   },
-  { "term": "SCRIPT", "wAR": ["سكريبت", "نص برمجي"], "wEN": "script" },
+  { "term": "SCRIPT", "wAR": ["نص برمجي"], "wEN": "script" },
   { "term": "SERVER", "wAR": "خادوم", "wEN": "server" },
-  { "term": "SHORTCUT", "wAR": "إختصار", "wEN": "shortcut" },
+  { "term": "SHORTCUT", "wAR": "اختصار", "wEN": "shortcut" },
   { "term": "SOFTWARE", "wAR": "برنامج", "wEN": "software" },
   { "term": "SORT", "wAR": "فرز", "wEN": "sort" },
   { "term": "SOURCE", "wAR": "مصدر", "wEN": "source" },
-  { "term": "SPAWN", "wAR": ["انتاج", "توليد"], "wEN": "spawn" },
+  { "term": "SPAWN", "wAR": ["إنتاج", "توليد"], "wEN": "spawn" },
   { "term": "STABLE", "wAR": "مستقر", "wEN": "stable" },
   { "term": "STATE", "wAR": "الحالة", "wEN": "state" },
   { "term": "STATEMENT", "wAR": "بيان", "wEN": "statment" },
@@ -287,7 +285,7 @@
   { "term": "TUNNEL", "wAR": "قناة", "wEN": "tunnel" },
   { "term": "TYPE", "wAR": "نوع", "wEN": "type" },
   { "term": "UI", "wAR": "واجهة المستخدم", "wEN": ["ui", "user interface"] },
-  { "term": "UPPERCASE", "wAR": "أحرف الكبيرة", "wEN": "uppercase" },
+  { "term": "UPPERCASE", "wAR": "أحرف كبيرة", "wEN": "uppercase" },
   { "term": "USER", "wAR": ["مستخدم", "مستعمل"], "wEN": "user" },
   { "term": "UX", "wAR": "تجربة المستخدم", "wEN": ["user experience", "ux"] },
   { "term": "VARIABLE", "wAR": "متغير", "wEN": "variable" },
