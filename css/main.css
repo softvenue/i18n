@@ -112,13 +112,18 @@ body {
   position: relative;
   width: auto;
   text-align: center;
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .is-used-by-icon svg {
   width: 30px;
   display: block;
   margin: auto;
+}
+.is-used-by-icon small{
+  position: relative;
+  display: block;
+  margin-top: 5px;
 }
 
 .button svg {
