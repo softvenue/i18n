@@ -108,7 +108,7 @@
     wEN: "background"
   - 
     term: "BACKUP"
-    wAR: "نسخة احتياطية"
+    wAR: "نسخ احتياطي"
     wEN: "backup"
   - 
     term: "BANDWINDTH"
@@ -210,6 +210,10 @@
     term: "CODE"
     wAR: "شفرة"
     wEN: "code"
+  - 
+    term: "CODEBASE"
+    wAR: "قاعدة شيفرة برمجية"
+    wEN: "codebase"
   - 
     term: "COMMEND_LINE"
     wAR: "سطر أوامر"
@@ -313,6 +317,10 @@
     term: "DEPENDENCY"
     wAR: "اعتماد"
     wEN: "dependency"
+  - 
+    term: "DEPENDENCY_MANAGER"
+    wAR: "مدير حزم"
+    wEN: "dependency manager"
   - 
     term: "DETACH"
     wAR: "فصل"
@@ -502,6 +510,16 @@
     wAR: "سجل"
     wEN: "log"
   - 
+    term: "LOGIN"
+    wAR: "تسجيل دخول"
+    wEN: 
+      - "login"
+      - "sign in"
+  - 
+    term: "LOGOUT"
+    wAR: "تسجيل خروج"
+    wEN: "logout"
+  - 
     term: "LOOPS"
     wAR: 
       - "حلقات التكرار"
@@ -595,6 +613,12 @@
     wAR: "إذن"
     wEN: "permission"
   - 
+    term: "PLATFORM_AS_A_SERVICE"
+    wAR: "منصة كخدمة"
+    wEN: 
+      - "PaaS"
+      - "platform as a service"
+  - 
     term: "PORT"
     wAR: "منفذ"
     wEN: "port"
@@ -653,7 +677,9 @@
   - 
     term: "REPOSITORY"
     wAR: "مستودع"
-    wEN: "repository"
+    wEN: 
+      - "repo"
+      - "repository"
   - 
     term: "RUNTIME"
     wAR: 
@@ -674,9 +700,21 @@
     wAR: "اختصار"
     wEN: "shortcut"
   - 
+    term: "SIGN_UP"
+    wAR: "تسجيل"
+    wEN: 
+      - "register"
+      - "sign up"
+  - 
     term: "SOFTWARE"
     wAR: "برنامج"
     wEN: "software"
+  - 
+    term: "SOFTWARE_AS_A_SERVICE"
+    wAR: "برمجية كخدمة"
+    wEN: 
+      - "SaaS"
+      - "software as a service"
   - 
     term: "SORT"
     wAR: "فرز"
@@ -685,6 +723,12 @@
     term: "SOURCE"
     wAR: "مصدر"
     wEN: "source"
+  - 
+    term: "SOURCE_CODE_MANAGER"
+    wAR: "مدير الشفرات المصدرية"
+    wEN: 
+      - "scm"
+      - "source code manager"
   - 
     term: "SPAWN"
     wAR: 
@@ -798,6 +842,12 @@
     wAR: "إصدار"
     wEN: "version"
   - 
+    term: "VERSION_CONTROL_SYSTEM"
+    wAR: "نظام تحكم بالإصدارات"
+    wEN: 
+      - "vcs"
+      - "version control system"
+  - 
     term: "VULNERABILITY"
     wAR: "ثغرة"
     wEN: "vulnerability"
@@ -811,20 +861,4 @@
     term: "WINDOW"
     wAR: "نافذة"
     wEN: "window"
-  - 
-    term: "login"
-    wAR: "تسجيل دخول"
-    wEN: 
-      - "login"
-      - "sign in"
-  - 
-    term: "logout"
-    wAR: "تسجيل خروج"
-    wEN: "logout"
-  - 
-    term: "sign_up"
-    wAR: "تسجيل"
-    wEN: "sign up"
-  - 
-    wEN: "document object model"
 
