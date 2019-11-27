@@ -48,7 +48,7 @@
   { "term": "AUTHORIZATION", "wAR": "ترخيص", "wEN": "authorization" },
   { "term": "BACKBONE", "wAR": "اتصالات الشبكة الرئيسة", "wEN": "backbone" },
   { "term": "BACKGROUND", "wAR": "خلفية", "wEN": "background" },
-  { "term": "BACKUP", "wAR": "نسخة احتياطية", "wEN": "backup" },
+  { "term": "BACKUP", "wAR": "نسخ احتياطي", "wEN": "backup" },
   { "term": "BANDWINDTH", "wAR": "عرض النطاق", "wEN": "bandwidth:" },
   { "term": "BASIC", "wAR": "أساسي", "wEN": "basic" },
   { "term": "BIND", "wAR": "ربط", "wEN": "bind" },
@@ -119,6 +119,7 @@
   { "term": "DEEP LEARNING", "wAR": ["تعلم عميق"], "wEN": "deep learning" },
   { "term": "DELIMITER", "wAR": "مُحدِد", "wEN": "delimiter" },
   { "term": "DEPENDENCY", "wAR": "اعتماد", "wEN": "dependency" },
+  { "term": "DEPENDENCY_MANAGER", "wAR": "مدير حزم", "wEN": "dependency manager" },
   { "term": "DETACH", "wAR": "فصل", "wEN": "detach" },
   {
     "term": "DEVELOPER_TOOLS",
@@ -243,7 +244,12 @@
   { "term": "REMOTE", "wAR": "بعيد", "wEN": "remote" },
   { "term": "RENDERING", "wAR": "تصيير", "wEN": "rendering" },
   { "term": "REPORT", "wAR": ["تبليغ", "تقرير"], "wEN": "report" },
-  { "term": "REPOSITORY", "wAR": "مستودع", "wEN": "repository" },
+  { "term": "REPOSITORY", "wAR": "مستودع", "wEN": 
+    [
+      "repository", 
+      "repo"
+    ]
+  },
   {
     "term": "RUNTIME",
     "wAR": ["وقت التشغيل", "وقت التنفيذ"],
@@ -282,8 +288,38 @@
   { "term": "VULNERABILITY", "wAR": "ثغرة", "wEN": "vulnerability" },
   { "term": "WEB", "wAR": ["شبكة عنكبوتية", "ويب"], "wEN": "web" },
   { "term": "WINDOW", "wAR": "نافذة", "wEN": "window" },
-  { "term": "login", "wAR": "تسجيل دخول", "wEN": ["login", "sign in"] },
-  { "term": "logout", "wAR": "تسجيل خروج", "wEN": "logout" },
-  { "term": "sign_up", "wAR": "تسجيل", "wEN": "sign up" },
-  { "wEN": "document object model" }
+  { "term": "LOGIN", "wAR": "تسجيل دخول", "wEN": ["login", "sign in"] },
+  { "term": "LOGOUT", "wAR": "تسجيل خروج", "wEN": "logout" },
+  { "term": "SIGN_UP", "wAR": "تسجيل", "wEN": 
+    [
+      "sign up",
+      "register"
+    ]
+  },
+  { "term": "SOFTWARE_AS_A_SERVICE", "wAR": "برمجية كخدمة", "wEN": 
+    [
+      "software as a service",
+      "SaaS"
+    ] 
+  },
+  { "term": "PLATFORM_AS_A_SERVICE", "wAR": "منصة كخدمة", "wEN": 
+    [
+      "platform as a service",
+      "PaaS"
+    ] 
+  },
+  { "term": "CODEBASE", "wAR": "قاعدة شيفرة برمجية", "wEN": "codebase" },
+  { "term": "VERSION_CONTROL_SYSTEM", "wAR": "نظام تحكم بالإصدارات", "wEN": 
+    [
+      "version control system",
+      "vcs"
+    ] 
+  },
+  { "term": "SOURCE_CODE_MANAGER", "wAR": "مدير الشفرات المصدرية", "wEN": 
+    [
+      "source code manager",
+      "scm"
+    ] 
+  }
+    
 ]
