@@ -6,4 +6,10 @@ var sorted = jsonSort.sortObj(JsonFile);
 var fs = require('fs');
 
 fs.createWriteStream('i18n.json', 'utf-8')
-    .write(JSON.stringify(sorted));
+    .write(JSON.stringify(sorted, function(key, value) {
+        if (key == "term") {
+            return value.toUpperCase().replace(/ /g,"_")
+        }else{
+            return value;
+        }
+      }, 4));

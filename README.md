@@ -6,8 +6,8 @@
 ### الصيغ 
 <div dir="ltr">
 
-- JSON : [i18n.json](https://github.com/celyes/i18n/blob/master/i18n.json)
-- YAML : [i18n.yml](https://github.com/celyes/i18n/blob/master/i18n.yml)
+- JSON : [i18n.json](https://github.com/SoftVenue/i18n/blob/master/i18n.json)
+- YAML : [i18n.yml](https://github.com/SoftVenue/i18n/blob/master/i18n.yml)
 </div>
 
 **قريبا** : SQL, XML, HTML
@@ -18,8 +18,8 @@
 يجدر بنا الإشارة إلى أن هذا المشروع هو مبادرة شخصية منا نحن المذكورون في قائمة المساهمين أسفله، ولم يحض بدعم أي جهة أو مؤسسة من قبل. 
 
 ### المساهمون
-- إلياس شوية <span dir="ltr">([@celyes](https://github.com/celyes))</span>: مساهم رئيسي
-- أحمد عيساوي <span dir="ltr">([@Aissaoui-Ahmed](https://github.com/Aissaoui-Ahmed))</span>: مساهم رئيسي
+
+شكرا لكل من ساهم في هذا المستودع ونخص بالذكر [منهم](https://i18n.softvenue.net/contributors).
 
 لكل من يريد المساهمة، تفضل مشكوراً بقراءة [دليل المساهمة](CONTRIBUTING.md)
 </div>

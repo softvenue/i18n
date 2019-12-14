@@ -6,27 +6,25 @@
   "devDependencies": {
     "json2yaml": "^1.1.0",
     "jsonabc": "^2.3.1",
-    "pre-commit": "^1.2.2",
-    "prettier": "1.19.1"
+    "pre-commit": "^1.2.2"
   },
   "scripts": {
-    "start": "npm run test:sort && npm run test:prettier",
-    "test": "npm run test:sort && npm run test:prettier && npm run test:json2yaml",
+    "start": "npm run test:sort",
+    "test": "npm run test:sort && npm run test:json2yaml",
     "test:sort": "node Sort",
-    "test:prettier": "node_modules/.bin/prettier --write i18n.json",
     "test:json2yaml": "node_modules/.bin/json2yaml ./i18n.json > ./i18n.yml"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/InterstellarClub/i18n.git"
+    "url": "git+https://github.com/SoftVenue/i18n.git"
   },
   "keywords": [
     "Internationalization"
   ],
-  "author": "Interstellar Club",
+  "author": "SoftVenue Team",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/InterstellarClub/i18n/issues"
+    "url": "https://github.com/SoftVenue/i18n/issues"
   },
-  "homepage": "https://github.com/InterstellarClub/i18n#readme"
+  "homepage": "https://github.com/SoftVenue/i18n#readme"
 }
