@@ -26,4 +26,4 @@
 <div dir="ltr">
           JavaScript , Git , Google ...
 <div dir="rtl">
-إذا كنت تريد الإبلاغ عن مشكلة أو تقديم إقتراح فلا تتردد في <a href="https://github.com/InterstellarClub/i18n/issues/new"> طرحها</a>.
+إذا كنت تريد الإبلاغ عن مشكلة أو تقديم إقتراح فلا تتردد في <a href="https://github.com/SoftVenue/i18n/issues/new"> طرحها</a>.
