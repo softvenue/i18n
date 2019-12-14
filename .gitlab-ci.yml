@@ -7,8 +7,8 @@ cache:
 gitlab_commit_sort:
   before_script:
     - git checkout master
-    - git config --global user.email "softvenue@outlook.com"
-    - git config --global user.name "SoftVeune CI"
+    - git config --global user.email "github@softvenue.net"
+    - git config --global user.name "SoftVenue CI"
   script:
     - npm i
     - npm run test
