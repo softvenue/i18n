@@ -4,7 +4,7 @@
     wAR: "واجهة التطبيق الثنائية"
     wEN: "Application Binary Interface"
   - 
-    term: "ACCESS POINT"
+    term: "ACCESS_POINT"
     wAR: "نقطة دخول"
     wEN: "access point"
   - 
@@ -66,7 +66,7 @@
     wAR: "دالة سهمية"
     wEN: "arrow function"
   - 
-    term: "ARTIFICIAL INTELLIGENCE"
+    term: "ARTIFICIAL_INTELLIGENCE"
     wAR: "ذكاء صناعي"
     wEN: 
       - "AI"
@@ -305,7 +305,7 @@
     wAR: "إنقاص"
     wEN: "decrement"
   - 
-    term: "DEEP LEARNING"
+    term: "DEEP_LEARNING"
     wAR: 
       - "تعلم عميق"
     wEN: "deep learning"
@@ -334,13 +334,13 @@
     wAR: "تطوير"
     wEN: "development"
   - 
+    term: "DEVICE"
+    wAR: "جهاز"
+    wEN: "device"
+  - 
     term: "DOCUMENTATION"
     wAR: "توثيق"
     wEN: "documentation"
-  - 
-    term: "Device"
-    wAR: "جهاز"
-    wEN: "device"
   - 
     term: "EMAIL"
     wAR: "بريد إلكتروني"
@@ -537,7 +537,7 @@
       - "long term support"
       - "lts"
   - 
-    term: "MACHINE LEARNING"
+    term: "MACHINE_LEARNING"
     wAR: 
       - "تعلم آلي"
       - "تعلم الآلة"
