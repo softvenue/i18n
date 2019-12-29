@@ -1103,5 +1103,15 @@
         "term": "WINDOW",
         "wAR": "نافذة",
         "wEN": "window"
+    },
+    {
+        "term": "AUTONOMOUS_SYSTEM",
+        "wAR": "نظام مؤتمت",
+        "wEN": ["AS","Autonomous System"]
+    },
+    {
+        "term": "Address Allocation Protocol",
+        "wAR": "بروتوكول توزيع عنوان",
+        "wEN": ["AAP","Address Allocation Protocol"]
     }
 ]
