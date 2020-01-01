@@ -125,6 +125,22 @@
         "wEN": "authorization"
     },
     {
+        "term": "AUTONOMOUS_SYSTEM",
+        "wAR": "نظام مؤتمت",
+        "wEN": [
+            "AS",
+            "Autonomous System"
+        ]
+    },
+    {
+        "term": "ADDRESS_ALLOCATION_PROTOCOL",
+        "wAR": "بروتوكول توزيع عنوان",
+        "wEN": [
+            "AAP",
+            "Address Allocation Protocol"
+        ]
+    },
+    {
         "term": "BACKBONE",
         "wAR": "اتصالات الشبكة الرئيسة",
         "wEN": "backbone"
@@ -1103,15 +1119,5 @@
         "term": "WINDOW",
         "wAR": "نافذة",
         "wEN": "window"
-    },
-    {
-        "term": "AUTONOMOUS_SYSTEM",
-        "wAR": "نظام مؤتمت",
-        "wEN": ["AS","Autonomous System"]
-    },
-    {
-        "term": "Address Allocation Protocol",
-        "wAR": "بروتوكول توزيع عنوان",
-        "wEN": ["AAP","Address Allocation Protocol"]
     }
 ]
