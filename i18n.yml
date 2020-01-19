@@ -12,6 +12,12 @@
     wAR: "عنوان"
     wEN: "address"
   - 
+    term: "ADDRESS_ALLOCATION_PROTOCOL"
+    wAR: "بروتوكول توزيع عنوان"
+    wEN: 
+      - "AAP"
+      - "Address Allocation Protocol"
+  - 
     term: "AGGREGATION"
     wAR: "تجميع"
     wEN: "aggregation"
@@ -104,12 +110,6 @@
     wEN: 
       - "AS"
       - "Autonomous System"
-  - 
-    term: "ADDRESS_ALLOCATION_PROTOCOL"
-    wAR: "بروتوكول توزيع عنوان"
-    wEN: 
-      - "AAP"
-      - "Address Allocation Protocol"
   - 
     term: "BACKBONE"
     wAR: "اتصالات الشبكة الرئيسة"
