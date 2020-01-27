@@ -996,7 +996,7 @@
     },
     {
         "term": "STORAGE",
-        "wAR": "ذاكرة",
+        "wAR": "تخزين",
         "wEN": "storage"
     },
     {
@@ -1119,5 +1119,40 @@
         "term": "WINDOW",
         "wAR": "نافذة",
         "wEN": "window"
+    },
+    {
+        "term": "CONTAINER",
+        "wAR": "حاوية",
+        "wEN": "container"
+    },
+    {
+        "term": "ICON",
+        "wAR": "أيقونة",
+        "wEN": "icon"
+    },
+    {
+        "term": "FONT",
+        "wAR": "خط",
+        "wEN": "font"
+    },
+    {
+        "term": "ICON",
+        "wAR": "أيقونة",
+        "wEN": "icon"
+    },
+    {
+        "term": "LOAD_BALANCER",
+        "wAR": "موزع الحمل",
+        "wEN": "load balancer"
+    },
+    {
+        "term": "CACHING_SERVER",
+        "wAR": "خادم مخبئي",
+        "wEN": "caching server"
+    },
+    {
+        "term": "QUEUE",
+        "wAR": "طابور",
+        "wEN": "queue"
     }
 ]
