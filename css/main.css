@@ -155,7 +155,6 @@ body {
 }
 
 .card .card-title {
-  font-weight: 600;
   font-size: 18px;
   white-space: nowrap;
   overflow: hidden;
@@ -163,7 +162,6 @@ body {
 }
 .card a:hover {
   text-decoration: none;
-  font-weight: bold;
 }
 .card a {
   color: #000;
