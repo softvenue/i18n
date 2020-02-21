@@ -111,6 +111,10 @@
       - "AS"
       - "Autonomous System"
   - 
+    term: "AFNOG"
+    wAR: "مجموعة عمليات الشبكة الأفريقية"
+    wEN: "African Network Operations Group"
+  - 
     term: "BACKBONE"
     wAR: "اتصالات الشبكة الرئيسة"
     wEN: "backbone"

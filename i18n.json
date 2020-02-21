@@ -141,6 +141,11 @@
         ]
     },
     {
+        "term": "AFNOG",
+        "wAR": "مجموعة عمليات الشبكة الأفريقية",
+        "wEN": "African Network Operations Group"
+    },
+    {
         "term": "BACKBONE",
         "wAR": "اتصالات الشبكة الرئيسة",
         "wEN": "backbone"
@@ -1154,10 +1159,5 @@
         "term": "WINDOW",
         "wAR": "نافذة",
         "wEN": "window"
-    }, 
-    {
-        "term": "AfNOG",
-        "wAR": "مجموعة عمليات الشبكة الأفريقية",
-        "wEN": "African Network Operations Group"
     }
 ]
