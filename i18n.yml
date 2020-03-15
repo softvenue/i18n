@@ -111,6 +111,10 @@
       - "AS"
       - "Autonomous System"
   - 
+    term: "AFNOG"
+    wAR: "مجموعة عمليات الشبكة الأفريقية"
+    wEN: "African Network Operations Group"
+  - 
     term: "BACKBONE"
     wAR: "اتصالات الشبكة الرئيسة"
     wEN: "backbone"
@@ -195,6 +199,10 @@
       - "ذاكرة مخبأة"
     wEN: "cache memory"
   - 
+    term: "CACHING_SERVER"
+    wAR: "خادم مخبئي"
+    wEN: "caching server"
+  - 
     term: "CALLBACK"
     wAR: 
       - "استدعاء ثاني"
@@ -270,6 +278,10 @@
       - "باني"
       - "مشيد"
     wEN: "constructor"
+  - 
+    term: "CONTAINER"
+    wAR: "حاوية"
+    wEN: "container"
   - 
     term: "CPU"
     wAR: 
@@ -400,6 +412,10 @@
       - "جلب"
     wEN: "fetch"
   - 
+    term: "FONT"
+    wAR: "خط"
+    wEN: "font"
+  - 
     term: "FORK"
     wAR: "تفريع"
     wEN: "fork"
@@ -472,6 +488,14 @@
     wAR: "بروتوكول نقل النص التشعبي الآمن"
     wEN: "Hypertext Transfer Protocol Secure"
   - 
+    term: "ICON"
+    wAR: "أيقونة"
+    wEN: "icon"
+  - 
+    term: "ICON"
+    wAR: "أيقونة"
+    wEN: "icon"
+  - 
     term: "IDE"
     wAR: "بيئة تطوير مدمجة"
     wEN: "integrated development environment"
@@ -513,6 +537,10 @@
     term: "LIFECYLCE"
     wAR: "دورة حياة"
     wEN: "lifecycle"
+  - 
+    term: "LOAD_BALANCER"
+    wAR: "موزع الحمل"
+    wEN: "load balancer"
   - 
     term: "LOCK"
     wAR: "قفل"
@@ -651,6 +679,10 @@
     wAR: "يُزود‏"
     wEN: "provide"
   - 
+    term: "QUEUE"
+    wAR: "طابور"
+    wEN: "queue"
+  - 
     term: "RAM"
     wAR: "ذاكرة الوصول العشوائي"
     wEN: 
@@ -777,7 +809,7 @@
     wEN: "standard output"
   - 
     term: "STORAGE"
-    wAR: "ذاكرة"
+    wAR: "تخزين"
     wEN: "storage"
   - 
     term: "STRICT_MODE"

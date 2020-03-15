@@ -141,6 +141,11 @@
         ]
     },
     {
+        "term": "AFNOG",
+        "wAR": "مجموعة عمليات الشبكة الأفريقية",
+        "wEN": "African Network Operations Group"
+    },
+    {
         "term": "BACKBONE",
         "wAR": "اتصالات الشبكة الرئيسة",
         "wEN": "backbone"
@@ -248,6 +253,11 @@
         "wEN": "cache memory"
     },
     {
+        "term": "CACHING_SERVER",
+        "wAR": "خادم مخبئي",
+        "wEN": "caching server"
+    },
+    {
         "term": "CALLBACK",
         "wAR": [
             "استدعاء ثاني",
@@ -344,6 +354,11 @@
             "مشيد"
         ],
         "wEN": "constructor"
+    },
+    {
+        "term": "CONTAINER",
+        "wAR": "حاوية",
+        "wEN": "container"
     },
     {
         "term": "CPU",
@@ -511,6 +526,11 @@
         "wEN": "fetch"
     },
     {
+        "term": "FONT",
+        "wAR": "خط",
+        "wEN": "font"
+    },
+    {
         "term": "FORK",
         "wAR": "تفريع",
         "wEN": "fork"
@@ -603,6 +623,16 @@
         "wEN": "Hypertext Transfer Protocol Secure"
     },
     {
+        "term": "ICON",
+        "wAR": "أيقونة",
+        "wEN": "icon"
+    },
+    {
+        "term": "ICON",
+        "wAR": "أيقونة",
+        "wEN": "icon"
+    },
+    {
         "term": "IDE",
         "wAR": "بيئة تطوير مدمجة",
         "wEN": "integrated development environment"
@@ -654,6 +684,11 @@
         "term": "LIFECYLCE",
         "wAR": "دورة حياة",
         "wEN": "lifecycle"
+    },
+    {
+        "term": "LOAD_BALANCER",
+        "wAR": "موزع الحمل",
+        "wEN": "load balancer"
     },
     {
         "term": "LOCK",
@@ -830,6 +865,11 @@
         "term": "PROVIDE",
         "wAR": "يُزود‏",
         "wEN": "provide"
+    },
+    {
+        "term": "QUEUE",
+        "wAR": "طابور",
+        "wEN": "queue"
     },
     {
         "term": "RAM",
