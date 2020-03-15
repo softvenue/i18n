@@ -926,6 +926,14 @@
         ]
     },
     {
+        "term": "REPOSITORY_CLASS",
+        "wAR": [
+          "مصنف مستودعي",
+          "كلاس مستودعي"
+        ],
+        "wEN": "repository class"
+    },
+    {
         "term": "RUNTIME",
         "wAR": [
             "وقت التشغيل",
