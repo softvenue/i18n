@@ -643,21 +643,6 @@
         "wEN": "icon"
     },
     {
-        "term": "ICON",
-        "wAR": "أيقونة",
-        "wEN": "icon"
-    },
-    {
-        "term": "ICON",
-        "wAR": "أيقونة",
-        "wEN": "icon"
-    },
-    {
-        "term": "ICON",
-        "wAR": "أيقونة",
-        "wEN": "icon"
-    },
-    {
         "term": "IDE",
         "wAR": "بيئة تطوير مدمجة",
         "wEN": "integrated development environment"
@@ -963,8 +948,7 @@
     {
         "term": "REPOSITORY_CLASS",
         "wAR": [
-            "كلاس مستودعي",
-            "مصنف مستودعي"
+            "كلاس مستودعي"
         ],
         "wEN": "repository class"
     },
