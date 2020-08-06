@@ -118,6 +118,14 @@
         "wEN": "asynchronous"
     },
     {
+        "term": "ATM_ASYNCHRONOUS_TRANSFER_MODE",
+        "wAR": "وضع النقل غير المتزامن",
+        "wEN": [
+            "ATM",
+            "Asynchronous Transfer Mode"
+        ]
+    },
+    {
         "term": "ATTACHMENT",
         "wAR": "مرفق",
         "wEN": "attachment"
@@ -140,6 +148,94 @@
     {
         "term": "AUTONOMOUS_SYSTEM",
         "wAR": "نظام مؤتمت",
+        "wEN": [
+            "AS",
+            "Autonomous System"
+        ]
+    },
+    {
+        "term": "ADDRESS_ALLOCATION_PROTOCOL",
+        "wAR": "بروتوكول توزيع العنوان",
+        "wEN": [
+            "AAP",
+            "Address Allocation Protocol"
+        ]
+    },
+    {
+        "term": "ADDRESS_RESOLUTION_PROTOCOL",
+        "wAR": "بروتوكول تدقيق العنوان",
+        "wEN": [
+            "ARP",
+            "Address Resolution Protocol"
+        ]
+    },
+    {
+        "term": "AFRICAN_NETWORK_INFORMATION_CENTRE",
+        "wAR": "مركز معلومات الشبكة الأفريقية",
+        "wEN": [
+            "AfriNIC",
+            "African Network Information Centre"
+        ]
+    },
+    {
+        "term": "AFRICAN_NETWORK_OPERATIONS_GROUP",
+        "wAR": "مجموعة عمليات الشبكة الأفريقية",
+        "wEN": [
+            "AfNOG",
+            "African Network Operations Group"
+        ]
+    },
+    {
+        "term": "AMERICAN_REGISTRY_FOR_INTERNET_NUMBERS",
+        "wAR": "السجل الأمريكي لأرقام الإنترنت",
+        "wEN": [
+            "ARIN",
+            "American Registry for Internet Numbers"
+        ]
+    },
+    {
+        "term": "APPLICATION_SERVICE_PROVIDER",
+        "wAR": "تطبيق مزود خدمة",
+        "wEN": [
+            "ASP",
+            "Application Service Provider"
+        ]
+    },
+    {
+        "term": "AREA_DIRECTOR",
+        "wAR": "مدير المنطقة",
+        "wEN": [
+            "AD",
+            "Area Director"
+        ]
+    },
+    {
+        "term": "ASIA_PACIFIC_NETWORK_INFORMATION_CENTRE",
+        "wAR": "مركز معلومات شبكة آسيا والمحيط الهادئ",
+        "wEN": [
+            "APNIC",
+            "Asia Pacific Network Information Centre"
+        ]
+    },
+    {
+        "term": "ASYNCHRONOUS_DIGITAL_SUBSCRIBER_LINE",
+        "wAR": "خط المشترك الرقمي غير المتزامن",
+        "wEN": [
+            "ADSL",
+            "Asynchronous Digital Subscriber Line"
+        ]
+    },
+    {
+        "term": "AUTONOMOUS_SYSTEM_NUMBER",
+        "wAR": "نظام العد المستقل",
+        "wEN": [
+            "ASN",
+            "Autonomous System Number"
+        ]
+    },
+    {
+        "term": "AUTONOMOUS_SYSTEM",
+        "wAR": "نظام مستقل بذاته",
         "wEN": [
             "AS",
             "Autonomous System"
