@@ -155,7 +155,7 @@
     },
     {
         "term": "ADDRESS_ALLOCATION_PROTOCOL",
-        "wAR": "بروتوكول توزيع العنوان",
+        "wAR": "بروتوكول تخصيص العنوان",
         "wEN": [
             "AAP",
             "Address Allocation Protocol"
