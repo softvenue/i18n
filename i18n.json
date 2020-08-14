@@ -195,7 +195,7 @@
     },
     {
         "term": "APPLICATION_SERVICE_PROVIDER",
-        "wAR": "تطبيق مزود خدمة",
+        "wAR": "مزود خدمات التطبيقات",
         "wEN": [
             "ASP",
             "Application Service Provider"
