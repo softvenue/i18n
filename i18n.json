@@ -16,6 +16,14 @@
     },
     {
         "term": "ADDRESS_ALLOCATION_PROTOCOL",
+        "wAR": "بروتوكول تخصيص العنوان",
+        "wEN": [
+            "AAP",
+            "Address Allocation Protocol"
+        ]
+    },
+    {
+        "term": "ADDRESS_ALLOCATION_PROTOCOL",
         "wAR": "بروتوكول توزيع عنوان",
         "wEN": [
             "AAP",
@@ -23,9 +31,33 @@
         ]
     },
     {
+        "term": "ADDRESS_RESOLUTION_PROTOCOL",
+        "wAR": "بروتوكول تدقيق العنوان",
+        "wEN": [
+            "ARP",
+            "Address Resolution Protocol"
+        ]
+    },
+    {
         "term": "AFNOG",
         "wAR": "مجموعة عمليات الشبكة الأفريقية",
         "wEN": "African Network Operations Group"
+    },
+    {
+        "term": "AFRICAN_NETWORK_INFORMATION_CENTRE",
+        "wAR": "مركز معلومات الشبكة الأفريقية",
+        "wEN": [
+            "AfriNIC",
+            "African Network Information Centre"
+        ]
+    },
+    {
+        "term": "AFRICAN_NETWORK_OPERATIONS_GROUP",
+        "wAR": "مجموعة عمليات الشبكة الأفريقية",
+        "wEN": [
+            "AfNOG",
+            "African Network Operations Group"
+        ]
     },
     {
         "term": "AGGREGATION",
@@ -53,6 +85,14 @@
         "wEN": "allocate"
     },
     {
+        "term": "AMERICAN_REGISTRY_FOR_INTERNET_NUMBERS",
+        "wAR": "السجل الأمريكي لأرقام الإنترنت",
+        "wEN": [
+            "ARIN",
+            "American Registry for Internet Numbers"
+        ]
+    },
+    {
         "term": "ANNOTATION",
         "wAR": "التوصيف",
         "wEN": "annontation"
@@ -73,6 +113,22 @@
         "wEN": [
             "app",
             "application"
+        ]
+    },
+    {
+        "term": "APPLICATION_SERVICE_PROVIDER",
+        "wAR": "مزود خدمات التطبيقات",
+        "wEN": [
+            "ASP",
+            "Application Service Provider"
+        ]
+    },
+    {
+        "term": "AREA_DIRECTOR",
+        "wAR": "مدير المنطقة",
+        "wEN": [
+            "AD",
+            "Area Director"
         ]
     },
     {
@@ -104,6 +160,14 @@
         ]
     },
     {
+        "term": "ASIA_PACIFIC_NETWORK_INFORMATION_CENTRE",
+        "wAR": "مركز معلومات شبكة آسيا والمحيط الهادئ",
+        "wEN": [
+            "APNIC",
+            "Asia Pacific Network Information Centre"
+        ]
+    },
+    {
         "term": "ASSEMBLER",
         "wAR": "مُجمع",
         "wEN": "assembly"
@@ -116,6 +180,14 @@
             "متواقت"
         ],
         "wEN": "asynchronous"
+    },
+    {
+        "term": "ASYNCHRONOUS_DIGITAL_SUBSCRIBER_LINE",
+        "wAR": "خط المشترك الرقمي غير المتزامن",
+        "wEN": [
+            "ADSL",
+            "Asynchronous Digital Subscriber Line"
+        ]
     },
     {
         "term": "ATM_ASYNCHRONOUS_TRANSFER_MODE",
@@ -154,75 +226,11 @@
         ]
     },
     {
-        "term": "ADDRESS_ALLOCATION_PROTOCOL",
-        "wAR": "بروتوكول تخصيص العنوان",
+        "term": "AUTONOMOUS_SYSTEM",
+        "wAR": "نظام مستقل بذاته",
         "wEN": [
-            "AAP",
-            "Address Allocation Protocol"
-        ]
-    },
-    {
-        "term": "ADDRESS_RESOLUTION_PROTOCOL",
-        "wAR": "بروتوكول تدقيق العنوان",
-        "wEN": [
-            "ARP",
-            "Address Resolution Protocol"
-        ]
-    },
-    {
-        "term": "AFRICAN_NETWORK_INFORMATION_CENTRE",
-        "wAR": "مركز معلومات الشبكة الأفريقية",
-        "wEN": [
-            "AfriNIC",
-            "African Network Information Centre"
-        ]
-    },
-    {
-        "term": "AFRICAN_NETWORK_OPERATIONS_GROUP",
-        "wAR": "مجموعة عمليات الشبكة الأفريقية",
-        "wEN": [
-            "AfNOG",
-            "African Network Operations Group"
-        ]
-    },
-    {
-        "term": "AMERICAN_REGISTRY_FOR_INTERNET_NUMBERS",
-        "wAR": "السجل الأمريكي لأرقام الإنترنت",
-        "wEN": [
-            "ARIN",
-            "American Registry for Internet Numbers"
-        ]
-    },
-    {
-        "term": "APPLICATION_SERVICE_PROVIDER",
-        "wAR": "مزود خدمات التطبيقات",
-        "wEN": [
-            "ASP",
-            "Application Service Provider"
-        ]
-    },
-    {
-        "term": "AREA_DIRECTOR",
-        "wAR": "مدير المنطقة",
-        "wEN": [
-            "AD",
-            "Area Director"
-        ]
-    },
-    {
-        "term": "ASIA_PACIFIC_NETWORK_INFORMATION_CENTRE",
-        "wAR": "مركز معلومات شبكة آسيا والمحيط الهادئ",
-        "wEN": [
-            "APNIC",
-            "Asia Pacific Network Information Centre"
-        ]
-    },
-    {
-        "term": "ASYNCHRONOUS_DIGITAL_SUBSCRIBER_LINE",
-        "wAR": "خط المشترك الرقمي غير المتزامن",
-        "wEN": [
-            "ADSL",
-            "Asynchronous Digital Subscriber Line"
+            "AS",
+            "Autonomous System"
         ]
     },
     {
@@ -231,14 +239,6 @@
         "wEN": [
             "ASN",
             "Autonomous System Number"
-        ]
-    },
-    {
-        "term": "AUTONOMOUS_SYSTEM",
-        "wAR": "نظام مستقل بذاته",
-        "wEN": [
-            "AS",
-            "Autonomous System"
         ]
     },
     {
