@@ -1,0 +1,21 @@
+- name: NodeJS website 
+  url: https://crowdin.com/project/nodejs-website/ar#
+  logo: https://avatars.githubusercontent.com/u/9950313?s=200&v=4
+- name: NodeJS API 
+  url: https://crowdin.com/project/nodejs/ar#
+  logo: https://avatars.githubusercontent.com/u/9950313?s=200&v=4
+- name: React Community
+  url: https://github.com/reactjs
+  logo: https://avatars.githubusercontent.com/u/6412038?s=200&v=4
+- name: VueJS
+  url: https://github.com/vuejs
+  logo: https://avatars.githubusercontent.com/u/6128107?s=200&v=4
+- name: CLI VueJS 
+  url: https://www.transifex.com/vuejs/vue-cli/language/ar/
+  logo: https://avatars.githubusercontent.com/u/6128107?s=200&v=4
+- name: UI VueJS
+  url: https://www.transifex.com/vuejs/guijs/language/ar/
+  logo: https://avatars.githubusercontent.com/u/6128107?s=200&v=4
+- name: Heroku (12factor.net)
+  url: https://github.com/heroku/12factor/
+  logo: https://avatars.githubusercontent.com/u/23211?s=200&v=4
