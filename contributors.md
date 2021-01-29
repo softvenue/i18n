@@ -7,7 +7,6 @@ permalink: /contributors.html
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-
 <br>
 <div class="container text-right" id="contributors">
   <h3>قائمة المساهمين</h3>
