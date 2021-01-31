@@ -2,12 +2,23 @@
     {
         "term": "ABI",
         "wAR": "واجهة التطبيق الثنائية",
-        "wEN": "Application Binary Interface"
+        "wEN": [
+            "ABI",
+            "Application Binary Interface"
+        ]
     },
     {
         "term": "ACCESS_POINT",
         "wAR": "نقطة دخول",
         "wEN": "access point"
+    },
+    {
+        "term": "AD",
+        "wAR": "مدير المنطقة",
+        "wEN": [
+            "AD",
+            "Area Director"
+        ]
     },
     {
         "term": "ADDRESS",
@@ -39,6 +50,14 @@
         ]
     },
     {
+        "term": "ADSL",
+        "wAR": "خط المشترك الرقمي غير المتزامن",
+        "wEN": [
+            "ADSL",
+            "Asynchronous Digital Subscriber Line"
+        ]
+    },
+    {
         "term": "AFNOG",
         "wAR": "مجموعة عمليات الشبكة الأفريقية",
         "wEN": "African Network Operations Group"
@@ -63,6 +82,14 @@
         "term": "AGGREGATION",
         "wAR": "تجميع",
         "wEN": "aggregation"
+    },
+    {
+        "term": "AI",
+        "wAR": "ذكاء صناعي",
+        "wEN": [
+            "AI",
+            "artificial intelligence"
+        ]
     },
     {
         "term": "ALERT",
@@ -105,7 +132,18 @@
     {
         "term": "API",
         "wAR": "واجهة تطبيقات البرمجية",
-        "wEN": "Application Programming Interface"
+        "wEN": [
+            "API",
+            "Application Programming Interface"
+        ]
+    },
+    {
+        "term": "APNIC",
+        "wAR": "مركز معلومات شبكة آسيا والمحيط الهادئ",
+        "wEN": [
+            "APNIC",
+            "Asia Pacific Network Information Centre"
+        ]
     },
     {
         "term": "APPLICATION",
@@ -121,14 +159,6 @@
         "wEN": [
             "ASP",
             "Application Service Provider"
-        ]
-    },
-    {
-        "term": "AREA_DIRECTOR",
-        "wAR": "مدير المنطقة",
-        "wEN": [
-            "AD",
-            "Area Director"
         ]
     },
     {
@@ -152,19 +182,22 @@
         "wEN": "arrow function"
     },
     {
-        "term": "ARTIFICIAL_INTELLIGENCE",
-        "wAR": "ذكاء صناعي",
+        "term": "AS",
+        "wAR": [
+            "نظام مؤتمت",
+            "نظام مستقل بذاته"
+        ],
         "wEN": [
-            "AI",
-            "artificial intelligence"
+            "AS",
+            "Autonomous System"
         ]
     },
     {
-        "term": "ASIA_PACIFIC_NETWORK_INFORMATION_CENTRE",
-        "wAR": "مركز معلومات شبكة آسيا والمحيط الهادئ",
+        "term": "ASN",
+        "wAR": "نظام العد المستقل",
         "wEN": [
-            "APNIC",
-            "Asia Pacific Network Information Centre"
+            "ASN",
+            "Autonomous System Number"
         ]
     },
     {
@@ -182,15 +215,7 @@
         "wEN": "asynchronous"
     },
     {
-        "term": "ASYNCHRONOUS_DIGITAL_SUBSCRIBER_LINE",
-        "wAR": "خط المشترك الرقمي غير المتزامن",
-        "wEN": [
-            "ADSL",
-            "Asynchronous Digital Subscriber Line"
-        ]
-    },
-    {
-        "term": "ATM_ASYNCHRONOUS_TRANSFER_MODE",
+        "term": "ATM",
         "wAR": "وضع النقل غير المتزامن",
         "wEN": [
             "ATM",
@@ -216,30 +241,6 @@
         "term": "AUTHORIZATION",
         "wAR": "ترخيص",
         "wEN": "authorization"
-    },
-    {
-        "term": "AUTONOMOUS_SYSTEM",
-        "wAR": "نظام مؤتمت",
-        "wEN": [
-            "AS",
-            "Autonomous System"
-        ]
-    },
-    {
-        "term": "AUTONOMOUS_SYSTEM",
-        "wAR": "نظام مستقل بذاته",
-        "wEN": [
-            "AS",
-            "Autonomous System"
-        ]
-    },
-    {
-        "term": "AUTONOMOUS_SYSTEM_NUMBER",
-        "wAR": "نظام العد المستقل",
-        "wEN": [
-            "ASN",
-            "Autonomous System Number"
-        ]
     },
     {
         "term": "BACKBONE",
@@ -528,9 +529,7 @@
     },
     {
         "term": "DEEP_LEARNING",
-        "wAR": [
-            "تعلم عميق"
-        ],
+        "wAR": "تعلم عميق",
         "wEN": "deep learning"
     },
     {
@@ -726,12 +725,18 @@
     {
         "term": "HTTP",
         "wAR": "بروتوكول نقل النص التشعبي",
-        "wEN": "hypertext transfer protocol"
+        "wEN": [
+            "HTTP",
+            "hypertext transfer protocol"
+        ]
     },
     {
         "term": "HTTPS",
         "wAR": "بروتوكول نقل النص التشعبي الآمن",
-        "wEN": "Hypertext Transfer Protocol Secure"
+        "wEN": [
+            "HTTP",
+            "Hypertext Transfer Protocol Secure"
+        ]
     },
     {
         "term": "ICON",
@@ -741,7 +746,10 @@
     {
         "term": "IDE",
         "wAR": "بيئة تطوير مدمجة",
-        "wEN": "integrated development environment"
+        "wEN": [
+            "IDE",
+            "integrated development environment"
+        ]
     },
     {
         "term": "IMPORT",
@@ -828,8 +836,7 @@
         "term": "LOOPS",
         "wAR": [
             "حلقات التكرار",
-            "حلقات تكرارية",
-            "حلقات"
+            "حلقات تكرارية"
         ],
         "wEN": "loops"
     },
@@ -852,7 +859,10 @@
             "تعلم آلي",
             "تعلم الآلة"
         ],
-        "wEN": "machine learning"
+        "wEN": [
+            "ML",
+            "machine learning"
+        ]
     },
     {
         "term": "MAJOR",
@@ -1243,8 +1253,8 @@
         "term": "UX",
         "wAR": "تجربة المستخدم",
         "wEN": [
-            "user experience",
-            "ux"
+            "UX",
+            "user experience"
         ]
     },
     {
@@ -1261,7 +1271,7 @@
         "term": "VERSION_CONTROL_SYSTEM",
         "wAR": "نظام تحكم بالإصدارات",
         "wEN": [
-            "vcs",
+            "VCS",
             "version control system"
         ]
     },
