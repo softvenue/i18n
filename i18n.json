@@ -1269,7 +1269,7 @@
     },
     {
         "term": "VERSION_CONTROL_SYSTEM",
-        "wAR": "نظام تحكم بالإصدارات",
+        "wAR": "نظام إدارة الإصدارات",
         "wEN": [
             "VCS",
             "version control system"
