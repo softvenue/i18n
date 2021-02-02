@@ -188,7 +188,7 @@
     wEN: "authorization"
   - 
     term: "BACKBONE"
-    wAR: "اتصالات الشبكة الرئيسة"
+    wAR: "اتصالات الشبكة الرئيسية"
     wEN: "backbone"
   - 
     term: "BACKGROUND"
@@ -986,7 +986,7 @@
     wEN: "version"
   - 
     term: "VERSION_CONTROL_SYSTEM"
-    wAR: "نظام تحكم بالإصدارات"
+    wAR: "نظام إدارة الإصدارات"
     wEN: 
       - "VCS"
       - "version control system"
@@ -1004,3 +1004,4 @@
     term: "WINDOW"
     wAR: "نافذة"
     wEN: "window"
+
