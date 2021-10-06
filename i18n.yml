@@ -191,6 +191,12 @@
     wAR: "اتصالات الشبكة الرئيسية"
     wEN: "backbone"
   - 
+    term: "BACKEND"
+    wAR: "الطرف الخلفي"
+    wEN: 
+      - "back-end"
+      - "backend"
+  - 
     term: "BACKGROUND"
     wAR: "خلفية"
     wEN: "background"
@@ -453,6 +459,10 @@
     wAR: "تغليف"
     wEN: "encapsulation"
   - 
+    term: "ENDPOINT"
+    wAR: "نقطة نهاية"
+    wEN: "endpoit"
+  - 
     term: "ERROR"
     wAR: "خطأ"
     wEN: "error"
@@ -512,6 +522,12 @@
       - "أداة"
       - "إطار عمل"
     wEN: "framework"
+  - 
+    term: "FRONTEND"
+    wAR: "الطرف الأمامي"
+    wEN: 
+      - "front-end"
+      - "frontend"
   - 
     term: "FUNCTION"
     wAR: "دالة"
