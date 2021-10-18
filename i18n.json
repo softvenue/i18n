@@ -248,6 +248,14 @@
         "wEN": "backbone"
     },
     {
+        "term": "BACKEND",
+        "wAR": "الطرف الخلفي",
+        "wEN": [
+            "back-end",
+            "backend"
+        ]
+    },
+    {
         "term": "BACKGROUND",
         "wAR": "خلفية",
         "wEN": "background"
@@ -583,6 +591,11 @@
         "wEN": "encapsulation"
     },
     {
+        "term": "ENDPOINT",
+        "wAR": "نقطة نهاية",
+        "wEN": "endpoint"
+    },
+    {
         "term": "ERROR",
         "wAR": "خطأ",
         "wEN": "error"
@@ -657,6 +670,14 @@
             "إطار عمل"
         ],
         "wEN": "framework"
+    },
+    {
+        "term": "FRONTEND",
+        "wAR": "الطرف الأمامي",
+        "wEN": [
+            "front-end",
+            "frontend"
+        ]
     },
     {
         "term": "FUNCTION",
