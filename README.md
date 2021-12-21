@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsoftvenue%2Fi18n.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsoftvenue%2Fi18n?ref=badge_shield)
+
 <div dir="rtl">
 
 ### عن هذا المستودع
@@ -23,3 +25,7 @@
 
 لكل من يريد المساهمة، تفضل مشكوراً بقراءة [دليل المساهمة](CONTRIBUTING.md)
 </div>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsoftvenue%2Fi18n.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsoftvenue%2Fi18n?ref=badge_large)
